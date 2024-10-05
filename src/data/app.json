@@ -9,26 +9,14 @@
     },
     "header": {
         "logo": {
-            "symbol": "A.",
+            "symbol": "Sa.",
             "link": "/"
         },
         "menu": [
             {
-                "label": "Homepage",
+                "label": "Inicio",
                 "link": "/",
                 "children": [
-                    {
-                        "label": "Landing Page",
-                        "link": "/"
-                    },
-                    {
-                        "label": "Personal",
-                        "link": "/home-2"
-                    },
-                    {
-                        "label": "Home Slider",
-                        "link": "/projects-3"
-                    }
                 ]
             },
             {
