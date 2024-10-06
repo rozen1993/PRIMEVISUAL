@@ -14,75 +14,33 @@
         },
         "menu": [
             {
-                "label": "Inicio",
+                "label": "Safari",
                 "link": "/",
                 "children": [
                 ]
             },
             {
-                "label": "Portfolio",
-                "link": "/projects",
+                "label": "Portafolio",
+                "link": "/projects-3",
                 "children": [
-                    {
-                        "label": "Grid Type 1",
-                        "link": "/projects"
-                    },
-                    {
-                        "label": "Grid Type 2",
-                        "link": "/projects-2"
-                    },
-                    {
-                        "label": "Slider",
-                        "link": "/projects-3"
-                    }
                 ]
             },
             {
-                "label": "Services",
+                "label": "Servicios",
                 "link": "/services",
                 "children": [
-                    {
-                        "label": "Services List",
-                        "link": "/services"
-                    },
-                    {
-                        "label": "Single Service",
-                        "link": "/services/service-1"
-                    }
                 ]
             },
             {
                 "label": "Blog",
                 "link": "/blog",
                 "children": [
-                    {
-                        "label": "Blog list",
-                        "link": "/blog"
-                    },
-                    {
-                        "label": "Publication",
-                        "link": "/blog/play-to-your-strength-and-supercharge-your-business-4"
-                    }
                 ]
             },
             {
-                "label": "Contact",
+                "label": "Contacto",
                 "link": "/contact",
                 "children": 0
-            },
-            {
-                "label": "Other",
-                "link": "/team",
-                "children": [
-                    {
-                        "label": "Team",
-                        "link": "/team"
-                    },
-                    {
-                        "label": "404",
-                        "link": "/404"
-                    }
-                ]
             }
         ]
     },
