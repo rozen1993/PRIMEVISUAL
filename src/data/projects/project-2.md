@@ -12,13 +12,13 @@ layout: "two"
 introTitle: "Cámara de Seguridad <span class=\"mil-thin\">para el Hogar</span>"
 details:
     - label: "Cliente:"
-      value: "Envato"
+      value: "Coca Cola"
 
     - label: "Fecha:"
-      value: "Abril 2022"
+      value: "Diciembre 2024"
 
     - label: "Autor"
-      value: "Paul Trueman"
+      value: "Gordon Trueman"
 
 description:
     enabled: 1

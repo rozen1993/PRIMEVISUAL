@@ -46,10 +46,11 @@ const DefaultFooter = ( { extraClass } ) => {
                             <div className="col-md-6 col-lg-5">
 
                                 <ul className="mil-menu-list mil-up mil-mb-60">
-                                    <li><a href="#." className="mil-light-soft">Privacy Policy</a></li>
-                                    <li><a href="#." className="mil-light-soft">Terms and conditions</a></li>
-                                    <li><a href="#." className="mil-light-soft">Cookie Policy</a></li>
-                                    <li><a href="#." className="mil-light-soft">Careers</a></li>
+                                <li><a href="#." className="mil-light-soft">Política de privacidad</a></li>
+                                <li><a href="#." className="mil-light-soft">Términos y condiciones</a></li>
+                                <li><a href="#." className="mil-light-soft">Política de cookies</a></li>
+                                <li><a href="#." className="mil-light-soft">Alianzas Regionales</a></li>
+
                                 </ul>
 
                             </div>
@@ -64,16 +65,16 @@ const DefaultFooter = ( { extraClass } ) => {
 
                             <div className="col-md-6 col-lg-5 mil-mb-60">
 
-                                <h6 className="mil-muted mil-up mil-mb-30">Canada</h6>
+                                <h6 className="mil-muted mil-up mil-mb-30">San Isidro</h6>
 
-                                <p className="mil-light-soft mil-up">71 South Los Carneros Road, California <span className="mil-no-wrap">+51 174 705 812</span></p>
+                                <p className="mil-light-soft mil-up">Av. Pardo y Aliaga 640 <span className="mil-no-wrap">+51 174 705 812</span></p>
 
                             </div>
                             <div className="col-md-6 col-lg-5 mil-mb-60">
 
-                                <h6 className="mil-muted mil-up mil-mb-30">Germany</h6>
+                                <h6 className="mil-muted mil-up mil-mb-30">Lince</h6>
 
-                                <p className="mil-light-soft mil-up">Leehove 40, 2678 MC De Lier, Netherlands <span className="mil-no-wrap">+31 174 705 811</span></p>
+                                <p className="mil-light-soft mil-up">Calle Berlín 400<span className="mil-no-wrap">+31 174 705 811</span></p>
 
                             </div>
                         </div>

@@ -13,10 +13,10 @@ introTitle: Air Pro <span class="mil-thin">de Molekule</span>
 fullImage: /img/works/5/1.jpg
 details:
     - label: "Cliente:"
-      value: "Envato"
+      value: "Dunkin"
 
     - label: "Fecha:"
-      value: "Marzo 2022"
+      value: "Marzo 2024"
 
     - label: "Autor"
       value: "Paul Trueman"

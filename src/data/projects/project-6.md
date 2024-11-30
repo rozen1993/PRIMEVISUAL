@@ -13,13 +13,13 @@ introTitle: Tony's <span class="mil-thin">Chocolonely</span>
 fullImage: /img/works/6/1.jpg
 details:
     - label: "Cliente:"
-      value: "Envato"
+      value: "Ambrosoli"
 
     - label: "Fecha:"
       value: "Abril 2022"
 
     - label: "Autor"
-      value: "Paul Trueman"
+      value: "Mark Trueman"
 
 description:
     enabled: 1

@@ -95,15 +95,15 @@ const DefaultHeader = ({ extraClass }) => {
                               <div className="row">
                                   <div className="col-lg-8 mil-mb-60">
 
-                                      <h6 className="mil-muted mil-mb-30">Projects</h6>
+                                      <h6 className="mil-muted mil-mb-30">Projectos</h6>
 
                                       <ul className="mil-menu-list">
-                                          <li><Link href="/projects/project-1" className="mil-light-soft">Interior design studio</Link></li>
-                                          <li><Link href="/projects/project-2" className="mil-light-soft">Home Security Camera</Link></li>
-                                          <li><Link href="/projects/project-3" className="mil-light-soft">Kemia Honest Skincare</Link></li>
-                                          <li><Link href="/projects/project-4" className="mil-light-soft">Cascade of Lava</Link></li>
-                                          <li><Link href="/projects/project-5" className="mil-light-soft">Air Pro by Molekule</Link></li>
-                                          <li><Link href="/projects/project-6" className="mil-light-soft">Tony's Chocolonely</Link></li>
+                                            <li><Link href="/projects/project-1" className="mil-light-soft">Estudio de diseño de interiores</Link></li>
+                                            <li><Link href="/projects/project-2" className="mil-light-soft">Cámara de seguridad para el hogar</Link></li>
+                                            <li><Link href="/projects/project-3" className="mil-light-soft">Kemia Skincare Honesto</Link></li>
+                                            <li><Link href="/projects/project-4" className="mil-light-soft">Cascada de lava</Link></li>
+                                            <li><Link href="/projects/project-5" className="mil-light-soft">Air Pro de Molekule</Link></li>
+                                            <li><Link href="/projects/project-6" className="mil-light-soft">Tony's Chocolonely</Link></li>
                                       </ul>
 
                                   </div>
@@ -112,10 +112,10 @@ const DefaultHeader = ({ extraClass }) => {
                                       <h6 className="mil-muted mil-mb-30">Useful links</h6>
 
                                       <ul className="mil-menu-list">
-                                          <li><a href="#." className="mil-light-soft">Privacy Policy</a></li>
-                                          <li><a href="#." className="mil-light-soft">Terms and conditions</a></li>
-                                          <li><a href="#." className="mil-light-soft">Cookie Policy</a></li>
-                                          <li><a href="#." className="mil-light-soft">Careers</a></li>
+                                        <li><a href="#." className="mil-light-soft">Política de privacidad</a></li>
+                                        <li><a href="#." className="mil-light-soft">Términos y condiciones</a></li>
+                                        <li><a href="#." className="mil-light-soft">Política de cookies</a></li>
+                                        <li><a href="#." className="mil-light-soft">Alianzas Regionales</a></li>
                                       </ul>
 
                                   </div>
@@ -125,16 +125,16 @@ const DefaultHeader = ({ extraClass }) => {
 
                                   <div className="col-lg-4 mil-mb-60">
 
-                                      <h6 className="mil-muted mil-mb-30">Canada</h6>
+                                      <h6 className="mil-muted mil-mb-30">San Isidro</h6>
 
-                                      <p className="mil-light-soft mil-up">71 South Los Carneros Road, California <span className="mil-no-wrap">+51 174 705 812</span></p>
+                                      <p className="mil-light-soft mil-up">Av. Pardo y Aliaga 640 <span className="mil-no-wrap">+51 174 705 812</span></p>
 
                                   </div>
                                   <div className="col-lg-4 mil-mb-60">
 
-                                      <h6 className="mil-muted mil-mb-30">Germany</h6>
+                                      <h6 className="mil-muted mil-mb-30">Lince</h6>
 
-                                      <p className="mil-light-soft">Leehove 40, 2678 MC De Lier, Netherlands <span className="mil-no-wrap">+31 174 705 811</span></p>
+                                      <p className="mil-light-soft">Calle Berlín 400 <span className="mil-no-wrap">+31 174 705 811</span></p>
 
                                   </div>
                               </div>

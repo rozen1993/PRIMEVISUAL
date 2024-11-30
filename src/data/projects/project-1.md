@@ -13,10 +13,10 @@ introTitle: "Estudio de Diseño <span class=\"mil-thin\">de Interiores</span>"
 fullImage: /img/works/1/1.jpg
 details:
     - label: "Cliente:"
-      value: "Envato"
+      value: "Adidas"
 
     - label: "Fecha:"
-      value: "Abril 2022"
+      value: "Diciembre 2024"
 
     - label: "Autor"
       value: "Paul Trueman"

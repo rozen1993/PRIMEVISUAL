@@ -9,7 +9,7 @@
     },
     "header": {
         "logo": {
-            "symbol": "Sa.",
+            "symbol": "S.",
             "link": "/"
         },
         "menu": [
@@ -46,24 +46,24 @@
     },
     "footer": {
         "logo": {
-            "text": "Ashley."
+            "text": "Safari."
         },
-        "copy": "© 2023 Ashley. All Rights Reserved.",
+        "copy": "© 2025 Safari. Todos Los Derechos Reservados",
         "menu": [
             {
-                "label": "Home",
+                "label": "Inicio",
                 "link": "/"
             },
             {
-                "label": "Portfolio",
+                "label": "Portafolio",
                 "link": "/projects"
             },
             {
-                "label": "Services",
+                "label": "Servicios",
                 "link": "/services"
             },
             {
-                "label": "Contact",
+                "label": "Contacto",
                 "link": "/contact"
             },
             {

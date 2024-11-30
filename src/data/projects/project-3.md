@@ -13,13 +13,13 @@ introTitle: Kemia Honest <span class="mil-thin">Skincare</span>
 
 details:
     - label: "Cliente:"
-      value: "Envato"
+      value: "Dogma"
 
     - label: "Fecha:"
-      value: "Abril 2022"
+      value: "Abril 2023"
 
     - label: "Autor"
-      value: "Paul Trueman"
+      value: "Steve Trueman"
 
 description:
     enabled: 1

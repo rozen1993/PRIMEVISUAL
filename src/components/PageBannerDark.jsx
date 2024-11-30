@@ -34,7 +34,7 @@ const PageBannerDark = ({ pageTitle, breadTitle, anchorLabel, anchorLink }) => {
             </div>
             <div className="container">
               <ul className="mil-breadcrumbs mil-light mil-mb-60">
-                <li><Link href="/">Homepage</Link></li>
+                <li><Link href="/">Inicio</Link></li>
                 {asPath.indexOf('/blog/') != -1 &&
                 <li>
                   <Link href="/blog">Blog</Link>
@@ -42,12 +42,12 @@ const PageBannerDark = ({ pageTitle, breadTitle, anchorLabel, anchorLink }) => {
                 }
                 {asPath.indexOf('/projects/') != -1 &&
                 <li>
-                  <Link href="/projects">Projects</Link>
+                  <Link href="/projects">Projectos</Link>
                 </li>
                 }
                 {asPath.indexOf('/services/') != -1 &&
                 <li>
-                  <Link href="/services">Services</Link>
+                  <Link href="/services">Servicios</Link>
                 </li>
                 }
                 <li><a dangerouslySetInnerHTML={{__html : clearBreadTitle}} /></li>

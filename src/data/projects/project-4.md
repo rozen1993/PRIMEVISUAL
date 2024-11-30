@@ -12,10 +12,10 @@ layout: "four"
 introTitle: Cascada <span class="mil-thin">de Lava</span>
 details:
     - label: "Cliente:"
-      value: "Envato"
+      value: "El Comercio"
 
     - label: "Fecha:"
-      value: "Mayo 2022"
+      value: "Mayo 2024"
 
     - label: "Autor"
       value: "Paul Trueman"
