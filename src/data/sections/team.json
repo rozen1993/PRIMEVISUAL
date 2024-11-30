@@ -1,17 +1,17 @@
 {
-    "title": "Meet <br>Our Team",
-    "description": "<p>We are talented individuals who are passionate about bringing ideas to life. With a diverse range of backgrounds and skill sets, we collaborate to produce effective solutions for our clients.</p><p>Together, our creative team is committed to delivering impactful work that exceeds expectations.</p>",
-    "subtitle": "<span class=\"mil-thin\">We</span> delivering <br><span class=\"mil-thin\">exceptional</span> results.",
+    "title": "Conoce a <br> Nuestro Equipo",
+    "description": "<p>Somos individuos talentosos que estamos apasionados por hacer realidad las ideas. Con una amplia variedad de antecedentes y habilidades, colaboramos para producir soluciones efectivas para nuestros clientes.</p><p>Juntos, nuestro equipo creativo está comprometido en entregar trabajos impactantes que superen las expectativas.</p>",
+    "subtitle": "<span class=\"mil-thin\">Nosotros</span> entregamos <br><span class=\"mil-thin\">resultados excepcionales</span>.",
     "button": {
         "link": "/team",
-        "label": "Read more"
+        "label": "Leer más"
     },
-    "note": "<span class=\"mil-accent\">*</span> The founders of our agency",
+    "note": "<span class=\"mil-accent\">*</span> Los fundadores de nuestra agencia",
     "col1_items": [
         {
             "image": "/img/faces/1.jpg",
             "name": "Anna Oldman",
-            "role": "Art Director",
+            "role": "Directora de Arte",
             "social": [
                 {
                     "icon": "fab fa-behance",
@@ -38,7 +38,7 @@
         {
             "image": "/img/faces/3.jpg",
             "name": "Oscar Freeman",
-            "role": "Frontend Dev",
+            "role": "Desarrollador Frontend",
             "social": [
                 {
                     "icon": "fab fa-behance",
@@ -67,7 +67,7 @@
         {
             "image": "/img/faces/2.jpg",
             "name": "Emma Newman",
-            "role": "Founder",
+            "role": "Fundadora",
             "social": [
                 {
                     "icon": "fab fa-behance",
@@ -94,7 +94,7 @@
         {
             "image": "/img/faces/4.jpg",
             "name": "Lisa Trueman",
-            "role": "UI/UX Designer",
+            "role": "Diseñadora UI/UX",
             "social": [
                 {
                     "icon": "fab fa-behance",

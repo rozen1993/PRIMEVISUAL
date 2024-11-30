@@ -34,7 +34,7 @@ const Blog = ( { posts, totalPosts, currentPage, categories, popular } ) => {
                           {categories.map((item, key) => (
                           <li key={`categories-item-${key}`}><Link href={`/blog/category/${item.id}`}>{item.title}</Link></li>
                           ))}
-                          <li><Link href="/blog" className="mil-active">All categories</Link></li>
+                          <li><Link href="/blog" className="mil-active">Todas las categorías</Link></li>
                       </ul>
                   </div>
               </div>

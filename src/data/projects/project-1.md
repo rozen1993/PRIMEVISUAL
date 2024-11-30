@@ -1,55 +1,55 @@
 ---
-#preview
-title: Interior design studio
+#vista previa
+title: Estudio de diseño de interiores
 image: /img/works/1.jpg
-category: TECHNOLOGY
-date: may 24 2023
+category: TECNOLOGÍA
+date: mayo 24 2023
 
 #params
 layout: "one"
 
-#full details
-introTitle: "Interior Design <span class=\"mil-thin\">Studio</span>"
+#detalles completos
+introTitle: "Estudio de Diseño <span class=\"mil-thin\">de Interiores</span>"
 fullImage: /img/works/1/1.jpg
 details:
-    - label: "Client:"
+    - label: "Cliente:"
       value: "Envato"
 
-    - label: "Date:"
-      value: "April 2022"
+    - label: "Fecha:"
+      value: "Abril 2022"
 
-    - label: "Author"
+    - label: "Autor"
       value: "Paul Trueman"
 
 description:
     enabled: 1
-    title: "Simplicity, elegance, innovation!"
+    title: "¡Simplicidad, elegancia, innovación!"
     content: "
-      <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-      <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
+      <p>Una cámara de vigilancia doméstica que pone gran atención en la seguridad y privacidad del usuario, con dos modos para ofrecer seguridad mientras protege la privacidad personal. La cámara tiene un modo abierto y cerrado, definimos el producto con dos lados claros, expresando dos estados de trabajo y emociones.</p>
+      <p>Presenta un estado simple y silencioso cuando no está en uso, ofreciendo una sensación de calma y seguridad. Al mismo tiempo, la cámara se adapta a una variedad de entornos, proporcionando elegantes opciones de instalación, tanto de pared como en pie.</p>
     "
 
 gallery: 
     enabled: 1
     items:
         - image: /img/works/1/2.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/1/3.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/1/4.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/1/5.jpg
-          alt: "image"
+          alt: "imagen"
 
 gallery2: 
     enabled: 1
     items:
         - image: /img/works/1/6.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/1/7.jpg
-          alt: "image"
+          alt: "imagen"
 ---

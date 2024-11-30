@@ -1,12 +1,12 @@
 {
-    "title": "Designing <span class=\"mil-thin\">a Better</span><br> World <span class=\"mil-thin\">Today</span>",
-    "description": "Welcome to our world of endless imagination and boundless creativity. Together, let's embark on a remarkable journey where dreams become tangible realities.",
+    "title": "Diseñando <span class=\"mil-thin\">un Mejor</span><br> Mundo <span class=\"mil-thin\">Hoy</span>",
+    "description": "Bienvenido a nuestro mundo de imaginación infinita y creatividad sin límites. Juntos, emprendamos un viaje extraordinario donde los sueños se convierten en realidades tangibles.",
     "button1": {
         "link": "/services",
-        "label": "What we do"
+        "label": "Lo que hacemos"
     },
     "button2": {
-        "link": "/projects",
-        "label": "View works"
+        "link": "/projects-3",
+        "label": "Ver trabajos"
     }
 }

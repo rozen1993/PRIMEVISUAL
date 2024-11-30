@@ -1,55 +1,55 @@
 ---
-#preview
-title: Air Pro by Molekule
+#vista previa
+title: Air Pro de Molekule
 image: /img/works/5.jpg
-category: TECHNOLOGY
-date: may 24 2023
+category: TECNOLOGÍA
+date: mayo 24 2023
 
 #params
 layout: "five"
 
-#full details
-introTitle: Air Pro <span class="mil-thin">by Molekule</span>
+#detalles completos
+introTitle: Air Pro <span class="mil-thin">de Molekule</span>
 fullImage: /img/works/5/1.jpg
 details:
-    - label: "Client:"
+    - label: "Cliente:"
       value: "Envato"
 
-    - label: "Date:"
-      value: "March 2022"
+    - label: "Fecha:"
+      value: "Marzo 2022"
 
-    - label: "Author"
+    - label: "Autor"
       value: "Paul Trueman"
 
 gallery: 
     enabled: 1
     items:
         - image: /img/works/5/2.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/5/3.gif
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/5/4.jpg
-          alt: "image"
+          alt: "imagen"
         
         - image: /img/works/5/5.gif
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/5/6.jpg
-          alt: "image"
+          alt: "imagen"
 
 description:
     enabled: 1
-    title: Simplicity, elegance, innovation!
+    title: ¡Simplicidad, elegancia, innovación!
     content: "
-        <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-        <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
+        <p>Una cámara de vigilancia para el hogar que presta gran atención a la seguridad y la privacidad del usuario, con dos modos para proporcionar seguridad mientras se protege la privacidad personal. La cámara tiene un modo abierto y cerrado, definimos el producto con dos lados claros, expresando dos estados de funcionamiento y emociones.</p>
+        <p>Presenta un estado simple y tranquilo cuando no está en uso, brindando una sensación de seguridad y suavidad. Al mismo tiempo, la cámara se adapta a una variedad de entornos, ofreciendo elegantes opciones para colgar en la pared o instalación de pie.</p>
     "
 
 gallery2: 
     enabled: 1
     items:
         - image: /img/works/5/7.gif
-          alt: "image"
+          alt: "imagen"
 ---

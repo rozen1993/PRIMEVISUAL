@@ -1,24 +1,24 @@
 {
-    "title": "Customer <span class=\"mil-thin\">Voices:</span> <br>Hear What <span class=\"mil-thin\">They Say!</span>",
-    "subtitle": "Customer reviews are a valuable source <br>of information for both businesses and consumers.",
+    "title": "Voces de Clientes: <br>¡Escucha lo que <span class=\"mil-thin\">dicen!</span>",
+    "subtitle": "Las reseñas de clientes son una fuente valiosa <br>de información tanto para empresas como para consumidores.",
     "items": [
         {
             "name": "Paul Trueman",
             "image": "/img/customers/1.jpg",
-            "role": "Eqanta app",
-            "text": "Working with Courtney Davis as our UI designer was an absolute pleasure. Her attention to detail and creative approach brought our vision to life. The user interface she designed exceeded our expectations, and we received positive feedback from our clients. Highly recommended!"
+            "role": "Aplicación Eqanta",
+            "text": "Trabajar con Courtney Davis como nuestra diseñadora de UI fue un placer absoluto. Su atención al detalle y su enfoque creativo dieron vida a nuestra visión. La interfaz de usuario que diseñó superó nuestras expectativas, y recibimos comentarios positivos de nuestros clientes. ¡Altamente recomendada!"
         },
         {
             "name": "Olivia Oldman",
             "image": "/img/customers/2.jpg",
-            "role": "Eqanta app",
-            "text": "I had the opportunity to collaborate with Courtney, and I must say she is incredibly talented. Her ability to understand our brand and translate it into a interface was impressive. Courtney's designs were intuitive, and enhanced the overall user experience. I look forward to working with her again!"
+            "role": "Aplicación Eqanta",
+            "text": "Tuve la oportunidad de colaborar con Courtney, y debo decir que es increíblemente talentosa. Su capacidad para entender nuestra marca y traducirla en una interfaz fue impresionante. Los diseños de Courtney fueron intuitivos y mejoraron la experiencia general del usuario. ¡Espero trabajar con ella nuevamente!"
         },
         {
             "name": "Oscar Newman",
             "image": "/img/customers/3.jpg",
-            "role": "Eqanta app",
-            "text": "Courtney Davis is an exceptional UI designer. She has a keen eye for aesthetics and understands how to create interfaces. Courtney's designs greatly improved the usability of our application, and we couldn't be happier with the results. Highly skilled and reliable!"
+            "role": "Aplicación Eqanta",
+            "text": "Courtney Davis es una diseñadora de UI excepcional. Tiene un agudo sentido estético y sabe cómo crear interfaces. Los diseños de Courtney mejoraron enormemente la usabilidad de nuestra aplicación, y no podríamos estar más felices con los resultados. ¡Altamente capacitada y confiable!"
         }
     ]
 }

@@ -1,58 +1,58 @@
 ---
-#preview
+#vista previa
 title: Tony's Chocolonely
 image: /img/works/6.jpg
-category: TECHNOLOGY
-date: may 24 2023
+category: TECNOLOGÍA
+date: mayo 24 2023
 
 #params
 layout: "six"
 
-#full details
+#detalles completos
 introTitle: Tony's <span class="mil-thin">Chocolonely</span>
 fullImage: /img/works/6/1.jpg
 details:
-    - label: "Client:"
+    - label: "Cliente:"
       value: "Envato"
 
-    - label: "Date:"
-      value: "April 2022"
+    - label: "Fecha:"
+      value: "Abril 2022"
 
-    - label: "Author"
+    - label: "Autor"
       value: "Paul Trueman"
 
 description:
     enabled: 1
-    title: Simplicity, elegance, innovation!
+    title: ¡Simplicidad, elegancia, innovación!
     content: "
-      <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-      <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
+      <p>Una cámara de vigilancia para el hogar que presta gran atención a la seguridad y la privacidad del usuario, con dos modos para proporcionar seguridad mientras se protege la privacidad personal. La cámara tiene un modo abierto y cerrado, definimos el producto con dos lados claros, expresando dos estados de funcionamiento y emociones.</p>
+      <p>Presenta un estado simple y tranquilo cuando no está en uso, brindando una sensación de seguridad y suavidad. Al mismo tiempo, la cámara se adapta a una variedad de entornos, ofreciendo elegantes opciones para colgar en la pared o instalación de pie.</p>
     "
 
 gallery: 
     enabled: 1
     items:
         - image: /img/works/6/2.gif
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/6/3.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/6/4.gif
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/6/5.jpg
-          alt: "image"
+          alt: "imagen"
 
 gallery2: 
     enabled: 1
     items:
         - image: /img/works/6/6.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/6/7.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/6/8.jpg
-          alt: "image"
+          alt: "imagen"
 ---

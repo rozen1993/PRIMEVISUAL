@@ -1,9 +1,9 @@
 {
-    "title": "Reasonable <span class=\"mil-thin\">prices</span> <br/>for innovative <span class=\"mil-thin\">solutions</span>",
-    "description": "At our agency, we have a unique approach to web design and development. <br/>We believe in creating in terms of user experience, functionality.",
+    "title": "Precios <span class=\"mil-thin\">razonables</span> <br/>para soluciones <span class=\"mil-thin\">innovadoras</span>",
+    "description": "En nuestra agencia, tenemos un enfoque único para el diseño y desarrollo web. <br/>Creemos en crear en términos de experiencia de usuario, funcionalidad.",
     "items": [
         {
-            "title": "Tailored Designs for<br> Every Budget",
+            "title": "Diseños a medida para<br> cada presupuesto",
             "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
             "price": {
                 "value": "19",
@@ -12,7 +12,7 @@
             "link": "/contact"
         },
         {
-            "title": "Tailored Designs for<br> Every Budget",
+            "title": "Diseños a medida para<br> cada presupuesto",
             "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
             "price": {
                 "value": "29",
@@ -21,7 +21,7 @@
             "link": "/contact"
         },
         {
-            "title": "Unleashing the Beauty of Space <br> with Unique Designs",
+            "title": "Desatando la belleza del espacio <br> con diseños únicos",
             "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
             "price": {
                 "value": "49",
@@ -30,7 +30,7 @@
             "link": "/contact"
         },
         {
-            "title": "Exquisite Design Concepts <br> for Discerning Clients",
+            "title": "Conceptos de diseño exquisitos <br> para clientes exigentes",
             "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
             "price": {
                 "value": "199",
@@ -40,7 +40,7 @@
         }
     ],
     "button": {
-        "label": "individual solution",
+        "label": "solución individual",
         "link": "/contact"
     }
 }

@@ -1,20 +1,20 @@
 {
     "title": "Ashley <br/>Goodman",
-    "subtitle": "Hello! My name is",
-    "text": "Passionately Creating Design Wonders: <br/>Unleashing Boundless Creativity",
+    "subtitle": "¡Hola! Mi nombre es",
+    "text": "Creando Apasionadamente Maravillas del Diseño: <br/> Desatando Creatividad Ilimitada",
     "button": {
         "link": "/services",
-        "label": "More about me"
+        "label": "Más sobre mí"
     },
     "image": {
         "url": "/img/faces/large/1.png",
-        "alt": "Portrait"
+        "alt": "Retrato"
     },
     "bottom": {
-        "title": "Designing a Better World Today",
+        "title": "Diseñando un Mejor Mundo Hoy",
         "button": {
             "link": "/projects",
-            "label": "View portfolio"
+            "label": "Ver portafolio"
         },
         "social": [
             {

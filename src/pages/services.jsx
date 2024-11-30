@@ -42,7 +42,7 @@ const Services = (props) => {
                                             ))}
                                           </ul>
                                           <div className="mil-link mil-accent mil-arrow-place mil-up">
-                                              <span>Read more</span>
+                                              <span>Leer más</span>
                                               <ArrowIcon />
                                           </div>
                                       </Link>

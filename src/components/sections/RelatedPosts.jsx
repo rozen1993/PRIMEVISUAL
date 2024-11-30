@@ -37,7 +37,7 @@ const RelatedPostsSection = ( Content ) => {
                                     <h4 className="mil-up mil-mb-30">{item.title}</h4>
                                     <p className="mil-post-text mil-up mil-mb-30">{item.short}</p>
                                     <div className="mil-link mil-dark mil-arrow-place mil-up">
-                                        <span>Read more</span>
+                                        <span>Leer más</span>
                                     </div>
                                 </div>
                             </Link>

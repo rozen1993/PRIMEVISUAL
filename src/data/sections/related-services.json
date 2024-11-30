@@ -1,8 +1,8 @@
 {
-    "title": "Other services",
+    "title": "Otros servicios",
     "numOfItems": 3,
     "button": {
         "link": "/services",
-        "label": "View all"
+        "label": "Ver todos"
     }
 }

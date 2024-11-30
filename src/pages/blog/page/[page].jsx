@@ -22,7 +22,7 @@ const Blog = ( { posts, currentPage, totalPosts, categories } ) => {
         <div className="container mil-p-120-120">
           <div className="row align-items-center mil-mb-30">
               <div className="col-lg-4 mil-mb-30">
-                  <h3 className="mil-up">Categories:</h3>
+                  <h3 className="mil-up">Categorías:</h3>
               </div>
               <div className="col-lg-8 mil-mb-30">
                   <div className="mil-adaptive-right mil-up">
@@ -31,7 +31,7 @@ const Blog = ( { posts, currentPage, totalPosts, categories } ) => {
                           {categories.map((item, key) => (
                           <li key={`categories-item-${key}`}><Link href={`/blog/category/${item.id}`}>{item.title}</Link></li>
                           ))}
-                          <li><Link href="/blog" className="mil-active">All categories</Link></li>
+                          <li><Link href="/blog" className="mil-active">Todas las categorías</Link></li>
                       </ul>
                   </div>
               </div>

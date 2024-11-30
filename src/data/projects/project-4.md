@@ -1,56 +1,56 @@
 ---
-#preview
-title: Cascade of Lava
+#vista previa
+title: Cascada de Lava
 image: /img/works/4.jpg
-category: TECHNOLOGY
-date: may 24 2023
+category: TECNOLOGÍA
+date: mayo 24 2023
 
 #params
 layout: "four"
 
-#full details
-introTitle: Cascade <span class="mil-thin">of Lava</span>
+#detalles completos
+introTitle: Cascada <span class="mil-thin">de Lava</span>
 details:
-    - label: "Client:"
+    - label: "Cliente:"
       value: "Envato"
 
-    - label: "Date:"
-      value: "May 2022"
+    - label: "Fecha:"
+      value: "Mayo 2022"
 
-    - label: "Author"
+    - label: "Autor"
       value: "Paul Trueman"
 
 gallery: 
     enabled: 1
     items:
         - image: /img/works/4/1.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/4/2.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/4/3.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/4/4.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/works/4/5.jpg
-          alt: "image"
+          alt: "imagen"
         
         - image: /img/works/4/6.jpg
-          alt: "image"
+          alt: "imagen"
 
 description:
     enabled: 1
-    title: Lava Photos taken at Hawaii <br>Volcanoes National Park.
+    title: Fotos de Lava tomadas en el <br>Parque Nacional de los Volcanes de Hawái.
     content: "
-      <p>This collection of Hawaii photography is focused on the immense power of lava at the Volcanos National Park on the Big Island of Hawaii. One of the most truly mystical scenes I have ever had the pleasure of capturing. For this collection I wanted to showcase this beauty in my own artistic way, through fine art landscape photography. However still keep these scenes natural and true to what I witnessed on my journey. For that reason, these images have been only lightly processed. All of these images are single exposures, unless listed otherwise in the caption below the photo.</p>
+      <p>Esta colección de fotografías de Hawái se centra en el inmenso poder de la lava en el Parque Nacional de los Volcanes, en la Isla Grande de Hawái. Una de las escenas más místicas que he tenido el placer de capturar. Para esta colección, quería mostrar esta belleza de una manera artística propia, a través de la fotografía de paisajes en arte fino. Sin embargo, aún quería mantener estas escenas naturales y fieles a lo que presencié en mi viaje. Por esa razón, estas imágenes han sido procesadas ligeramente. Todas estas imágenes son exposiciones individuales, a menos que se indique lo contrario en la leyenda debajo de la foto.</p>
     "
 
 gallery2: 
     enabled: 1
     items:
         - image: /img/works/4/7.jpg
-          alt: "image"
+          alt: "imagen"
 ---

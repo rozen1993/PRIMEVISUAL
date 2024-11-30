@@ -33,7 +33,7 @@ const RelatedServicesSection = ( { services } ) => {
                                     ))}
                                 </ul>
                                 <div className="mil-link mil-dark mil-arrow-place mil-up">
-                                    <span>Read more</span>
+                                    <span>Leer más</span>
                                 </div>
                             </Link>
 
