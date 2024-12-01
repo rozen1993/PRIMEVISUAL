@@ -15,7 +15,7 @@ const Services = (props) => {
     <Layouts>
       {/* banner */}
       <div className="mil-dark-bg">
-          <PageBannerDark pageTitle={"This is <span className=\"mil-thin\">what</span><br> we do <span className=\"mil-thin\">best</span>"} breadTitle={"Services"} anchorLabel={"Our services"} anchorLink={"#services"} />
+          <PageBannerDark pageTitle={"Esto es <span className=\"mil-thin\">lo que</span><br> hacemos <span className=\"mil-thin\">mejor</span>"} breadTitle={"Servicios"} anchorLabel={"Nuestros servicios"} anchorLink={"#services"} />
 
           {/* services */}
           <section id="services">
