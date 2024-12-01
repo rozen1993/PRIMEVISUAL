@@ -1,16 +1,16 @@
 ---
 #preview
-title: '5 Steps to Create an Outstanding Marketing Plan'
+title: '5 Pasos para Crear un Plan de Marketing Excepcional'
 date: '2022-04-02'
 image: "/img/blog/3.jpg"
 category:
-    - Code
+    - Código
 categories:
     - code
 short: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos.
 
 #full details
-introTitle: 5 Steps to Create an Outstanding<br> <span class="mil-thin">Marketing</span> Plan
+introTitle: 5 Pasos para Crear un Plan de <br> <span class="mil-thin">Marketing</span> Excepcional
 
 author:
     name: "Paul Trueman"
@@ -19,10 +19,10 @@ gallery:
     enabled: 1
     items:
         - image: /img/blog/4.jpg
-          alt: "image"
+          alt: "imagen"
 
         - image: /img/blog/7.jpg
-          alt: "image"
+          alt: "imagen"
 
 additional:
     enabled: 1

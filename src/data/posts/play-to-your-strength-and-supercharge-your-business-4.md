@@ -1,6 +1,6 @@
 ---
 #preview
-title: 'Play to Your Strengths and Supercharge Your Business'
+title: 'Aprovecha tus Fortalezas y Potencia tu Negocio'
 date: '2022-04-02'
 image: "/img/blog/6.jpg"
 category:
@@ -10,7 +10,7 @@ categories:
 short: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos.
 
 #full details
-introTitle: Play to Your Strengths and<br> <span class="mil-thin">Supercharge</span> Your <span class="mil-thin">Business</span>
+introTitle: Aprovecha tus <span class="mil-thin">Fortalezas</span> y<br> Potencia tu <span class="mil-thin">Negocio</span>
 
 author:
     name: "Paul Trueman"
@@ -27,30 +27,29 @@ gallery:
 additional:
   enabled: 1
   content: "
-    <p>Remember that creativity is at the core of graphic design. Embrace your creativity, experiment with different ideas, and think outside the box to create unique and impactful designs. Don't be afraid to take risks and push the boundaries of traditional design. Steve Jobs once said:</p>
-    <blockquote>Design is not just what it looks like and feels like. Design is how it works. So go ahead, unleash your creativity, and embark on your path to becoming a graphic designer!
-    </blockquote>
-    <p>In addition to the aforementioned steps, other important aspects of becoming a graphic designer include networking with industry professionals, staying updated on design trends and technologies, and continuously learning and improving your skills.</p>
-    <p>Becoming a graphic designer is an exciting journey that requires dedication, hard work, and a genuine passion for design. By following these 10 simple steps, you'll be well on your way to establishing yourself as a skilled graphic designer and opening doors to a rewarding and fulfilling career.</p>
+    <p>Recuerda que la creatividad es el núcleo del diseño gráfico. Abraza tu creatividad, experimenta con diferentes ideas y piensa fuera de la caja para crear diseños únicos e impactantes. No tengas miedo de arriesgarte y de llevar los límites del diseño tradicional. Steve Jobs dijo una vez:</p>
+    <blockquote>El diseño no es solo lo que se ve y se siente. El diseño es cómo funciona. Así que adelante, desata tu creatividad y emprende tu camino para convertirte en diseñador gráfico.</blockquote>
+    <p>Además de los pasos mencionados, otros aspectos importantes para convertirte en diseñador gráfico incluyen hacer networking con profesionales del sector, mantenerse actualizado sobre las tendencias y tecnologías de diseño, y continuar aprendiendo y mejorando tus habilidades.</p>
+    <p>Convertirse en diseñador gráfico es un viaje emocionante que requiere dedicación, esfuerzo y una pasión genuina por el diseño. Siguiendo estos 10 simples pasos, estarás en el camino correcto para establecerte como un diseñador gráfico hábil y abrir las puertas a una carrera gratificante y llena de oportunidades.</p>
   "
 ---
 
-Are you passionate about design and interested in pursuing a career as a graphic designer? Graphic design is a dynamic field that combines creativity, technical skills, and a keen eye for aesthetics. Whether you're a beginner or someone looking to enhance their skills, this article will guide you through 10 simple steps to become a graphic designer.
+¿Te apasiona el diseño y te interesa seguir una carrera como diseñador gráfico? El diseño gráfico es un campo dinámico que combina creatividad, habilidades técnicas y un buen ojo para la estética. Ya seas un principiante o alguien que busca mejorar sus habilidades, este artículo te guiará a través de 10 pasos sencillos para convertirte en diseñador gráfico.
 
-> "Creativity is intelligence having fun." - Albert Einstein
+> "La creatividad es la inteligencia divirtiéndose." - Albert Einstein
 
-##### Understand the Field
+##### Comprende el Campo
 
-Start by gaining a comprehensive understanding of what graphic design entails. Research the different types of graphic design, such as branding, web design, print design, and illustration. Explore the work of successful graphic designers and analyze their portfolios to learn about various design styles and techniques.
+Comienza por obtener una comprensión integral de lo que implica el diseño gráfico. Investiga los diferentes tipos de diseño gráfico, como branding, diseño web, diseño gráfico para impresión e ilustración. Explora el trabajo de diseñadores gráficos exitosos y analiza sus portafolios para aprender sobre diversos estilos y técnicas de diseño.
 
-##### Get a Design Education
+##### Obtén una Educación en Diseño
 
-While formal education is not always a requirement, it can provide you with a solid foundation and enhance your credibility as a graphic designer. Consider pursuing a degree or diploma in graphic design or a related field. Look for reputable design schools or online courses that offer comprehensive programs to learn both theory and practical skills.
+Aunque la educación formal no siempre es un requisito, puede proporcionarte una base sólida y aumentar tu credibilidad como diseñador gráfico. Considera obtener un título o diploma en diseño gráfico o en un campo relacionado. Busca escuelas de diseño reputadas o cursos en línea que ofrezcan programas completos para aprender tanto teoría como habilidades prácticas.
 
-##### Build Your Portfolio
+##### Construye tu Portafolio
 
-Your portfolio is your calling card as a graphic designer. Compile a collection of your best design projects to showcase your abilities and style. Include a variety of work, such as logos, brochures, websites, or illustrations, to demonstrate your versatility. Constantly update your portfolio as you complete new projects or improve existing ones.
+Tu portafolio es tu carta de presentación como diseñador gráfico. Compila una colección de tus mejores proyectos de diseño para mostrar tus habilidades y estilo. Incluye una variedad de trabajos, como logotipos, folletos, sitios web o ilustraciones, para demostrar tu versatilidad. Actualiza tu portafolio constantemente a medida que completes nuevos proyectos o mejores los existentes.
 
-##### Gain Practical Experience
+##### Obtén Experiencia Práctica
 
-To become a successful graphic designer, practical experience is crucial. Seek internships, freelance opportunities, or entry-level positions to gain hands-on experience in the field. This will allow you to apply your skills in real-world scenarios, understand client requirements, work with deadlines, and collaborate with others in a professional environment.
+Para convertirte en un diseñador gráfico exitoso, la experiencia práctica es crucial. Busca pasantías, oportunidades freelance o puestos de nivel inicial para ganar experiencia práctica en el campo. Esto te permitirá aplicar tus habilidades en escenarios reales, comprender los requisitos de los clientes, trabajar con plazos y colaborar con otros en un entorno profesional.

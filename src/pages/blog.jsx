@@ -25,7 +25,7 @@ const Blog = ( { posts, totalPosts, currentPage, categories, popular } ) => {
         <div className="container mil-p-120-120">
           <div className="row align-items-center mil-mb-30">
               <div className="col-lg-4 mil-mb-30">
-                  <h3 className="mil-up">Categories:</h3>
+                  <h3 className="mil-up">Categorías:</h3>
               </div>
               <div className="col-lg-8 mil-mb-30">
                   <div className="mil-adaptive-right mil-up">

@@ -1,6 +1,6 @@
 ---
 #preview
-title: '16 Best Graphic Design Online and Offline Courses'
+title: '16 Mejores Cursos de Diseño Gráfico Online y Presenciales'
 date: '2022-03-02'
 image: "/img/blog/5.jpg"
 category:
@@ -10,7 +10,7 @@ categories:
 short: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos.
 
 #full details
-introTitle: 16 Best Graphic <span class="mil-thin">Design</span><br> Online and Offline <span class="mil-thin">Courses</span>
+introTitle: 16 Mejores Cursos de Diseño Gráfico <span class="mil-thin">Online</span> y Presenciales <span class="mil-thin">Cursos</span>
 
 author:
     name: "Paul Trueman"

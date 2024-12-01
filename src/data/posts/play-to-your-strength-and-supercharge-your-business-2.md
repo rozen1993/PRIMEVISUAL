@@ -1,6 +1,6 @@
 ---
 #preview
-title: 'Play to Your Strengths and Supercharge Your Business'
+title: 'Aprovecha tus Fortalezas y Potencia tu Negocio'
 date: '2022-02-02'
 image: "/img/blog/8.jpg"
 category:
@@ -10,7 +10,7 @@ categories:
 short: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos.
 
 #full details
-introTitle: Play to Your Strengths and<br> <span class="mil-thin">Supercharge</span> Your <span class="mil-thin">Business</span>
+introTitle: Aprovecha tus <span class="mil-thin">Fortalezas</span> y<br> Potencia tu <span class="mil-thin">Negocio</span>
 
 author:
     name: "Paul Trueman"
@@ -41,6 +41,6 @@ Voluptatem odit ullam veritatis corrupti officia non aperiam eius vero amet, sed
 
 Tempora quasi nihil eos minus facilis. Modi atque odit mollitia, molestias eum inventore, minima distinctio laborum asperiores odio sit fuga rem, totam error aspernatur ipsa? Officia doloribus, non perspiciatis, aspernatur a numquam pariatur reprehenderit, incidunt fugiat modi nam. **Repudiandae obcaecati** excepturi, autem dicta tempore qui consequatur quisquam architecto dolorem voluptates nihil est ex perferendis eligendi laboriosam maxime placeat doloribus et reprehenderit beatae tempora numquam harum expedita! Amet at odit pariatur eum tenetur ratione
 
-> I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves.
+> No sé por qué estamos aquí, pero estoy bastante seguro de que no es para disfrutar.
 
 Modi sint reprehenderit vitae officiis pariatur, ab debitis voluptate ea eius assumenda beatae, tempora, dolores deserunt, ipsam ipsum! Quod ipsam consequuntur distinctio velit sed ipsum quisquam, itaque placeat error non animi quam aut similique nulla ab. Quaerat dicta, dolores veritatis magnam quae aut omnis in porro.

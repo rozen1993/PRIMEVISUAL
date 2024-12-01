@@ -1,6 +1,6 @@
 ---
 #preview
-title: 'Play to Your Strengths and Supercharge Your Business'
+title: 'Aprovecha tus Fortalezas y Potencia tu Negocio'
 date: '2022-01-02'
 image: "/img/blog/5.jpg"
 category:
@@ -10,7 +10,7 @@ categories:
 short: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos.
 
 #full details
-introTitle: Play to Your Strengths and<br> <span class="mil-thin">Supercharge</span> Your <span class="mil-thin">Business</span>
+introTitle: Aprovecha tus <span class="mil-thin">Fortalezas</span> y<br> Potencia tu <span class="mil-thin">Negocio</span>
 
 author:
     name: "Paul Trueman"
@@ -25,22 +25,20 @@ gallery:
           alt: "image"
 ---
 
-Gutem temporibus quae facilis totam, dolorem laborum optio laudantium explicabo quia ea. Officia beatae excepturi adipisci? Nobis consequatur ullam officiis adipisci assumenda, voluptas optio, commodi, soluta itaque error consectetur cupiditate vero voluptatem architecto blanditiis quidem amet. Quod ipsam consequuntur distinctio velit sed ipsum quisquam, itaque placeat error non animi quam aut similique nulla ab. Quaerat dicta, dolores veritatis magnam quae aut omnis in porro.
+En tiempos pasados, las cosas eran mucho más fáciles. Las opciones eran limitadas y las decisiones más sencillas. Sin embargo, la vida y los negocios ahora requieren más análisis y planificación. Es crucial comprender los principios fundamentales que guían cualquier negocio y cómo aplicarlos eficazmente. En este artículo, exploraremos cómo aprovechar tus fortalezas y llevar tu negocio al siguiente nivel.
 
 ###### Voluptatem odit ullam veritatis
 
-Omnis consectetur in libero! Quo animi minus sunt, excepturi inventore! Recusandae enim fugit saepe mollitia laboriosam minima sapiente laborum aspernatur ut! Voluptatibus tempora cupiditate nulla cum dicta odit unde eius sit molestias corrupti pariatur illum aspernatur blanditiis, dolor earum quidem incidunt eligendi magnam obcaecati iure quis corporis. Perspiciatis rem provident aliquid iusto temporibus, exercitationem voluptatibus accusamus amet ratione atque, dolor vel necessitatibus illo ipsa officia, sunt quia magni saepe velit ipsum sapiente blanditiis minima.
+¡Toda oportunidad es valiosa! Incluso cuando las circunstancias no son las ideales, siempre hay algo que aprender. Aprovecha cada momento para crecer y aprender de las experiencias, ya sean positivas o negativas. 
 
-- Voluptate aspernatur
-- Fugiat asperiores
-- Doloremque quidem porro
-- Numquam porro sequi
-- Laudantium quis
+- Aprovecha tus fortalezas
+- Busca siempre la mejora
+- No temas a los desafíos
+- Mantén la persistencia
+- Aprende de tus errores
 
-Voluptatem odit ullam veritatis corrupti officia non aperiam eius vero amet, sed porro blanditiis, harum, quo fugit cupiditate. Maxime quaerat ratione
+A medida que te enfrentas a situaciones desafiantes, recuerda que el fracaso no es el final; es solo una oportunidad para aprender y mejorar. Con la mentalidad adecuada, incluso los obstáculos más grandes pueden ser superados.
 
-Tempora quasi nihil eos minus facilis. Modi atque odit mollitia, molestias eum inventore, minima distinctio laborum asperiores odio sit fuga rem, totam error aspernatur ipsa? Officia doloribus, non perspiciatis, aspernatur a numquam pariatur reprehenderit, incidunt fugiat modi nam. **Repudiandae obcaecati** excepturi, autem dicta tempore qui consequatur quisquam architecto dolorem voluptates nihil est ex perferendis eligendi laboriosam maxime placeat doloribus et reprehenderit beatae tempora numquam harum expedita! Amet at odit pariatur eum tenetur ratione
+> "No sé por qué estamos aquí, pero estoy bastante seguro de que no es para disfrutar."
 
-> I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves.
-
-Modi sint reprehenderit vitae officiis pariatur, ab debitis voluptate ea eius assumenda beatae, tempora, dolores deserunt, ipsam ipsum! Quod ipsam consequuntur distinctio velit sed ipsum quisquam, itaque placeat error non animi quam aut similique nulla ab. Quaerat dicta, dolores veritatis magnam quae aut omnis in porro.
+El camino hacia el éxito está lleno de retos, pero la clave es mantener la determinación y aprender de cada paso en el proceso. La persistencia y la actitud positiva son esenciales para cualquier emprendedor que busque alcanzar sus metas a largo plazo.   
