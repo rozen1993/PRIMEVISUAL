@@ -45,7 +45,7 @@ const ProjectDetail = ( props ) => {
 
   return (
     <Layouts>
-      <PageBanner pageTitle={postData.introTitle} breadTitle={postData.title} anchorLabel={"Read more"} anchorLink={"#project"} />
+      <PageBanner pageTitle={postData.introTitle} breadTitle={postData.title} anchorLabel={"Leer más"} anchorLink={"#project"} />
 
       {postData.layout == 'one' &&
         <ProjectInnerOne postData={postData} prev={prev} next={next} />

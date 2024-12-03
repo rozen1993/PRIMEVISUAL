@@ -17,10 +17,10 @@ const DefaultFooter = ( { extraClass } ) => {
 
                         <div className="mil-muted mil-logo mil-up mil-mb-30">{AppData.footer.logo.text}</div>
 
-                        <p className="mil-light-soft mil-up mil-mb-30">Subscribe our newsletter:</p>
+                        <p className="mil-light-soft mil-up mil-mb-30">No te pierdas nuestras novedades:</p>
 
                         <form action={AppData.settings.mailchimp.url} method="post" target="_blank" className="mil-subscribe-form mil-up">
-                            <input type="email" placeholder="Enter our email" name="EMAIL" required />
+                            <input type="email" placeholder="Ingresa tu correo" name="EMAIL" required />
                             <input type="hidden" name={AppData.settings.mailchimp.key} />
                             <button type="submit" className="mil-button mil-icon-button-sm mil-arrow-place">
                                 <ArrowIcon />

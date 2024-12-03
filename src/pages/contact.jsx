@@ -8,7 +8,7 @@ import ArrowIcon from "@layouts/svg-icons/Arrow";
 const Contact = () => {
   return (
     <Layouts>
-        <PageBanner pageTitle={"Get in touch!"} breadTitle={"Contact"} anchorLabel={"Send message"} anchorLink={"#contact"} paddingBottom={1} align={"center"} />
+        <PageBanner pageTitle={"Conversa con nosotros!"} breadTitle={"Contacto"} anchorLabel={"Enviar mensaje"} anchorLink={"#contact"} paddingBottom={1} align={"center"} />
 
         {/* map */}
         <div className="mil-map-frame mil-up">
@@ -27,7 +27,7 @@ const Contact = () => {
         {/* contact form */}
         <section id="contact">
             <div className="container mil-p-120-90">
-                <h3 className="mil-center mil-up mil-mb-120">Let's <span className="mil-thin">Talk</span></h3>
+                <h3 className="mil-center mil-up mil-mb-120">Contáctanos <span className="mil-thin">Ahora</span></h3>
 
                 <Formik
                 initialValues = {{ email: '', name: '', message: '' }}
@@ -91,7 +91,7 @@ const Contact = () => {
                     <div className="col-lg-6 mil-up">
                         <input 
                             type="text" 
-                            placeholder="What's your name"
+                            placeholder="Cuál es tu nombre?"
                             name="name" 
                             required="required" 
                             onChange={handleChange}
@@ -102,7 +102,7 @@ const Contact = () => {
                     <div className="col-lg-6 mil-up">
                         <input 
                             type="email" 
-                            placeholder="Your Email"
+                            placeholder="Tu Email"
                             name="email"
                             required="required"
                             onChange={handleChange}
@@ -112,7 +112,7 @@ const Contact = () => {
                     </div>
                     <div className="col-lg-12 mil-up">
                         <textarea 
-                            placeholder="Tell us about our project"
+                            placeholder="Háblanos Acerca de tu Proyecto"
                             name="message" 
                             required="required"
                             onChange={handleChange}
@@ -121,12 +121,12 @@ const Contact = () => {
                         />
                     </div>
                     <div className="col-lg-8">
-                        <p className="mil-up mil-mb-30"><span className="mil-accent">*</span> We promise not to disclose your personal information to third parties.</p>
+                        <p className="mil-up mil-mb-30"><span className="mil-accent">*</span> Nos comprometemos a no revelar su información personal a terceros.</p>
                     </div>
                     <div className="col-lg-4">
                         <div className="mil-adaptive-right mil-up mil-mb-30">
                             <button type="submit" className="mil-button mil-arrow-place">
-                                <span>Send message</span>
+                                <span>Enviar mensaje</span>
                                 <ArrowIcon />
                             </button>
                         </div>
