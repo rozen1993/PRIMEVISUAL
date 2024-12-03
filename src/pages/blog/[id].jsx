@@ -22,9 +22,9 @@ const PostsDetail = ( props ) => {
                           <img src={postData.image} alt={postData.title} className="mil-scale" data-value-1=".90" data-value-2="1.15" />
                       </div>
                       <div className="mil-info mil-up mil-mb-90">
-                          <div>Category: &nbsp;<span className="mil-dark">{postData.category}</span></div>
-                          <div>Date: &nbsp;<span className="mil-dark"><Date dateString={postData.date} /></span></div>
-                          <div>Author: &nbsp;<span className="mil-dark">{postData.author.name}</span></div>
+                          <div>Categoría: &nbsp;<span className="mil-dark">{postData.category}</span></div>
+                          <div>Fecha: &nbsp;<span className="mil-dark"><Date dateString={postData.date} /></span></div>
+                          <div>Autor: &nbsp;<span className="mil-dark">{postData.author.name}</span></div>
                       </div>
 
                   </div>

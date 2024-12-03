@@ -1,5 +1,5 @@
 ---
 #preview "Technology"
 title: Audiovisual
-introTitle: Publications <br>Category <span class=\"mil-thin\">Technology</span>
+introTitle: Publicaciones <br>Categoría <span class=\"mil-thin\">Audiovisual</span>
 ---

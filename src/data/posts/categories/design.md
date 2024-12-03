@@ -1,5 +1,5 @@
 ---
 #preview "Design"
 title: Diseño
-introTitle: Publications <br>Category <span class=\"mil-thin\">Design</span>
+introTitle: Publicaciones <br>Categoría <span class=\"mil-thin\">Diseño</span>
 ---

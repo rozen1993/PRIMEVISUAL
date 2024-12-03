@@ -1,5 +1,5 @@
 ---
 #preview "Art"
 title: Arte
-introTitle: Publications <br>Category <span class=\"mil-thin\">Art</span>
+introTitle: Publicaciones <br>Categoría <span class=\"mil-thin\">Arte</span>
 ---
