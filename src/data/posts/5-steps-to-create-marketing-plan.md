@@ -1,6 +1,7 @@
 ---
 #preview
 title: '5 Pasos para Crear un Plan de Marketing Excepcional'
+slug: "sesion-de-video"
 date: '2022-01-02'
 image: "/img/blog/4.jpg"
 category:

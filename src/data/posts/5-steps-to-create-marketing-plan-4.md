@@ -1,7 +1,7 @@
 ---
 #preview
 title: 'Sesión de fotos en Lima'
-slug: "25-pasos-para-ser-mejor"
+slug: "sesion-de-fotos"
 date: '2025-01-02'
 image: "/img/blog/3.jpg"
 category:
