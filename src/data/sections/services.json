@@ -1,30 +1,30 @@
 {
-    "title1": "Ideas <span class=\"mil-thin\">Únicas</span>",
-    "title2": "Para Tu <span class=\"mil-thin\">Negocio.</span>",
-    "subtitle": "Profesionales enfocados en ayudar a que tu marca<br/> crezca y avance.",
+    "title1": "Soluciones <span class=\"mil-thin\">Únicas</span>",
+    "title2": "Para Tu <span class=\"mil-thin\">Proyecto.</span>",
+    "subtitle": "Siempre enfocados en ayudar a que tu marca<br/> crezca y avance.",
     "button": {
         "link": "/services",
         "label": "Lo que hacemos"
     },
     "items": [
         {
-            "title": "Diseño de Marca e <br> Identidad",
-            "text": "Nuestra agencia creativa es un equipo de profesionales enfocados en ayudar a que tu marca crezca.",
+            "title": "Filmación y Edición de Videos",
+            "text": "Capturamos y transformamos momentos en videos de alto impacto.",
             "link": "/services/service-1"
         },
         {
-            "title": "Diseño de Sitios Web <br> y Desarrollo",
-            "text": "Nuestra agencia creativa es un equipo de profesionales enfocados en ayudar a que tu marca crezca.",
+            "title": "Fotografía de Alta Calidad ",
+            "text": "Fotografía impecable que destaca por su calidad excepcional.",
             "link": "/services/service-2"
         },
         {
-            "title": "Publicidad y <br> Campañas de Marketing",
-            "text": "Nuestra agencia creativa es un equipo de profesionales enfocados en ayudar a que tu marca crezca.",
+            "title": "Animación 2D, 3D, VFX, CGI",
+            "text": "Animaciones cautivadoras y efectos visuales únicos para realzar tus ideas.",
             "link": "/services/service-3"
         },
         {
-            "title": "Consultoría Creativa <br> y Desarrollo",
-            "text": "Nuestra agencia creativa es un equipo de profesionales enfocados en ayudar a que tu marca crezca.",
+            "title": "Desarrollo y Diseño de Sitios Web",
+            "text": "Diseñamos páginas web funcionales, atractivas y personalizadas.",
             "link": "/services/service-4"
         }
     ]
