@@ -39,6 +39,8 @@ additional:
 
 En un mundo donde la imagen lo es todo, una sesión de fotos profesional puede marcar la diferencia, ya sea para destacar tu marca, capturar momentos familiares inolvidables o renovar tu imagen personal. En Safari, no solo somos una de las principales productoras audiovisuales de Lima, también ofrecemos soluciones fotográficas personalizadas que se adaptan a tus necesidades (**[explora nuestros servicios de producción audiovisual!](https://)**).
 
+
+
 ## ¿Por qué elegirnos para tu sesión de fotos?
 
 **Experiencia comprobada:**  Somos una agencia con amplia trayectoria en la producción audiovisual y publicitaria, trabajando con empresas y particulares para crear contenido visual de alta calidad.
@@ -59,7 +61,7 @@ En un mundo donde la imagen lo es todo, una sesión de fotos profesional puede m
 
 **Sesiones temáticas:** Ofrecemos sesiones con decoraciones y temáticas personalizadas, perfectas para fechas especiales como Navidad, San Valentín o Halloween.
 
-## Beneficios de una sesión de fotos profesional
+## Beneficios de una sesión fotográfica
 
 **Construcción de una imagen confiable:** Una sesión profesional refleja calidad y atención al detalle, lo que genera confianza en tus clientes.
 
