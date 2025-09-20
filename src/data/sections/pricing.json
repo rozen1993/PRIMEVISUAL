@@ -1,40 +1,40 @@
 {
-    "title": "Precios <span class=\"mil-thin\">razonables</span> <br/>para soluciones <span class=\"mil-thin\">innovadoras</span>",
-    "description": "En nuestra agencia, tenemos un enfoque único para el diseño y desarrollo web. <br/>Creemos en crear en términos de experiencia de usuario, funcionalidad.",
+    "title": "Complementos<span class=\"mil-thin\"> adicionales</span> <br> <span class=\"mil-thin\">para tu</span>  proyecto",
+    "description": "Haz tu proyecto aún más completo con opciones especiales diseñadas para <br>ampliar y maximizar el impacto de tu contenido.",
     "items": [
         {
-            "title": "Diseños a medida para<br> cada presupuesto",
-            "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
+            "title": "Making Of / Behind The Scenes",
+            "text": "Contenido extra mostrando lo que sucede detrás del proyecto o evento",
             "price": {
-                "value": "19",
-                "symbol": "$"
+                "value": "A",
+                "symbol": ""
             },
             "link": "/contact"
         },
         {
-            "title": "Diseños a medida para<br> cada presupuesto",
-            "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
+            "title": "Entrega en Distintos Formatos",
+            "text": "Versión lista para proyección, redes sociales, TV o web",
             "price": {
-                "value": "29",
-                "symbol": "$"
+                "value": "B",
+                "symbol": ""
             },
             "link": "/contact"
         },
         {
-            "title": "Desatando la belleza del espacio <br> con diseños únicos",
-            "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
+            "title": "Asesoría de Difusión en Redes",
+            "text": "Guía y apoyo para que tu contenido tenga mayor alcance",
             "price": {
-                "value": "49",
-                "symbol": "$"
+                "value": "C",
+                "symbol": ""
             },
             "link": "/contact"
         },
         {
-            "title": "Conceptos de diseño exquisitos <br> para clientes exigentes",
-            "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
+            "title": "Caja Premium Personalizada",
+            "text": "Entrega elegante y única con tus fotos y videos más importantes",
             "price": {
-                "value": "199",
-                "symbol": "$"
+                "value": "D",
+                "symbol": ""
             },
             "link": "/contact"
         }
