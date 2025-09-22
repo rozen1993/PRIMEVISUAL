@@ -8,23 +8,23 @@
     },
     "items": [
         {
-            "title": "Filmación y Edición de Videos",
-            "text": "Capturamos y transformamos momentos en videos de alto impacto.",
-            "link": "/services/service-1"
-        },
-        {
-            "title": "Fotografía de Alta Calidad ",
-            "text": "Fotografía impecable que destaca por su calidad excepcional.",
+            "title": "Organización de Eventos",
+            "text": "Planificamos cada detalle para que tu evento sea único e inolvidable.",
             "link": "/services/service-2"
         },
         {
-            "title": "Animación 2D, 3D, VFX, CGI",
-            "text": "Animaciones cautivadoras y efectos visuales únicos para realzar tus ideas.",
+            "title": "Cobertura para Eventos",
+            "text": "Cobertura completa en foto y video para que tu evento perdure en el tiempo.",
+            "link": "/services/service-2"
+        },
+        {
+            "title": "Edición y Postproducción de Video",
+            "text": "Transformamos tu material en videos impactantes con ritmo, color y narrativa.",
             "link": "/services/service-3"
         },
         {
-            "title": "Desarrollo y Diseño de Sitios Web",
-            "text": "Diseñamos páginas web funcionales, atractivas y personalizadas.",
+            "title": "Fotografía Profesional",
+            "text": "Capturamos la belleza de cada instante con precisión, luz y composición.",
             "link": "/services/service-4"
         }
     ]

@@ -1,42 +1,37 @@
 ---
 # Detalles de vista previa
-title: "Campañas Publicitarias y de Marketing"
-preview_title: "Campañas <br>Publicitarias y de Marketing"
-short: "Nuestra agencia creativa es un equipo de profesionales enfocados en ayudar a que tu marca crezca."
+title: "Edición de Videos en Lima"
+preview_title: "Edición y <br>Postproducción"
+short: "Damos vida a tus ideas con videos profesionales y postproducción de excelencia que conecta audiencias."
 
 # Detalles completos
-introTitle: <span class="mil-thin">Publicidad</span><br> y <span class="mil-thin">Marketing</span> en Campañas
+introTitle: Edición de <br>Videos en Lima
 
 description:
-  title: Tu <span class="mil-thin">Enfoque</span> <br>y <span class="mil-thin">Especificaciones del Trabajo</span>
-  content: En nuestra agencia, tenemos un enfoque único para el diseño y desarrollo de sitios web. Creemos en crear sitios web que no solo se vean bien, sino que también tengan un buen rendimiento en términos de experiencia de usuario, funcionalidad y optimización para motores de búsqueda.
+  title: <span class="mil-thin">Postproducción que</span><br> Potencia tu Contenido
+  content: Convertimos tus ideas en videos profesionales capaces de captar la atención de tu audiencia. Nuestro equipo especializado en postproducción audiovisual garantiza resultados de alta calidad que reflejan la esencia de tu marca.
   button:
     link: /projects
     label: Ver trabajos
 
 list:
   items:
-    - label: "Auditorías UX"
+    - label: "Servicios de Edición"
       value: "
-      <p>Una auditoría UX es un servicio que evalúa la experiencia de usuario (UX) de un sitio web. Implica analizar el diseño, la funcionalidad y el contenido del sitio web para identificar áreas de mejora que puedan mejorar la experiencia general del usuario.</p>
-      <p>Durante una auditoría UX, un equipo de expertos en UX llevará a cabo una revisión exhaustiva del sitio web y proporcionará un informe detallado que describa recomendaciones específicas para mejorar la usabilidad, accesibilidad y experiencia general del usuario del sitio web.</p>
-      <p>La auditoría puede cubrir varios aspectos del sitio web, como la navegación, el diseño, la estructura del contenido y la capacidad de respuesta móvil. El objetivo es identificar puntos de dolor u obstáculos que los usuarios puedan encontrar mientras navegan por el sitio web y proporcionar recomendaciones prácticas para mejorar su experiencia.</p>
-      <p>En resumen, una auditoría UX puede ayudar a los propietarios de sitios web a identificar áreas de mejora que pueden mejorar la experiencia de usuario de su sitio web e incrementar el compromiso y la satisfacción de los usuarios.</p>
+        <p>Nuestros servicios de edición de video incluyen montaje profesional, corrección de color, sincronización de audio, efectos visuales y gráficos animados para crear contenido audiovisual impactante. Especializados en video corporativo para empresas y video institucional empresa, aplicamos técnicas avanzadas de postproducción que transforman material bruto en piezas comunicativas efectivas.</p><p>Trabajamos con software de última generación como Avid Media Composer, Adobe Premiere Pro y DaVinci Resolve, asegurando acabados cinematográficos que destacan por su calidad técnica y narrativa. Cada proyecto recibe tratamiento personalizado según objetivos específicos, garantizando coherencia visual con la identidad corporativa del cliente y optimización para diferentes plataformas de distribución digital.</p>
+      "
+    - label: "Nuestro Proceso"
+      value: "
+        <p>Iniciamos cada proyecto de edición de video con una reunión de briefing donde definimos objetivos, estilo visual y plazos de entrega. Nuestro flujo de postproducción comienza con la organización y respaldo del material, seguido de una edición offline donde estructuramos la narrativa y ritmo del contenido. Posteriormente realizamos corrección de color profesional, diseño de audio, integración de gráficos y efectos visuales.</p><p>Durante el proceso mantenemos comunicación constante con el cliente mediante links privados de revisión, permitiendo feedback en tiempo real y ajustes precisos. Esta metodología estructurada nos permite entregar proyectos de produccion de videos para redes sociales y contenido corporativo dentro de los plazos acordados, manteniendo los más altos estándares de calidad técnica y creativa.</p>
+      "
+    - label: "Por Qué Elegirnos"
+      value: "
+        <p>Con más de 8 años especializados en edición de videos en Lima, hemos desarrollado un expertise único en postproducción audiovisual que nos distingue en el mercado peruano. Nuestro equipo certificado maneja proyectos desde videos promocionales hasta producciones corporativas complejas, manteniendo una tasa de satisfacción del 98% entre nuestros clientes.</p><p>Ofrecemos costos competitivos en costo de video promocional sin comprometer la calidad, con tarifas transparentes y sin costos ocultos. Contamos con equipamiento de última generación, estaciones de trabajo 4K y monitores calibrados profesionalmente que garantizan precisión en color y detalle. Además, nuestro servicio incluye revisiones ilimitadas durante el proceso de edición, soporte técnico continuo y entrega en múltiples formatos optimizados para web, redes sociales y difusión broadcast.</p>
+      "
+    - label: "Especialidades de Video"
+      value: "
+        <p>Dominamos la edición de múltiples formatos audiovisuales adaptados a necesidades específicas de cada industria. Nuestras especialidades incluyen video institucional empresa para comunicación interna y externa, contenido corporativo para presentaciones ejecutivas, videos testimoniales de colaboradores y clientes, así como material educativo y capacitaciones internas. En el ámbito promocional, creamos spots publicitarios impactantes, videos para campañas digitales y produccion de videos para redes sociales optimizados para Instagram, LinkedIn, Facebook y YouTube.</p><p>También desarrollamos contenido especializado como videos de productos, lanzamientos comerciales, cobertura de eventos corporativos y documentales empresariales. Cada especialidad mantiene nuestros estándares de calidad cinematográfica, asegurando que el mensaje llegue efectivamente a la audiencia objetivo con el impacto visual adecuado.</p>
       "
 
-    - label: "Pensamiento de diseño"
-      value: "
-      <p>El pensamiento de diseño es un enfoque para resolver problemas que pone énfasis en la empatía, la creatividad y la colaboración. Implica comprender las necesidades y perspectivas de los usuarios, identificar y definir el problema, generar múltiples soluciones posibles, prototipar y probar esas soluciones, y hacer iteraciones basadas en los comentarios.</p>
-      <p>El pensamiento de diseño fomenta un enfoque centrado en el ser humano para la innovación y se utiliza a menudo en campos como el diseño de productos, el diseño de experiencia de usuario (UX) y la estrategia empresarial para crear soluciones innovadoras y centradas en el usuario. Promueve una mentalidad que abraza la experimentación, la iteración y el aprendizaje continuo a lo largo del proceso de diseño.</p>
-      "
 
-    - label: "Wireframing"
-      value: "
-      <p>El wireframing es un paso vital en el diseño web donde se crea una representación visual de la estructura de un sitio web. Se enfoca en el diseño y la experiencia de usuario, utilizando formas y líneas básicas para delinear elementos como encabezados, menús y secciones de contenido. Los wireframes establecen la arquitectura y funcionalidad del sitio web, facilitando la comunicación entre diseñadores, desarrolladores y clientes. Sirven como un plano para sitios web fáciles de usar, estableciendo la base para el diseño y el desarrollo.</p>
-      "
-
-    - label: "Metodologías"
-      value: "
-      <p>Libero quam alias tempora facilis necessitatibus quis officiis voluptatem architecto harum exercitationem quidem illum eligendi. Veniam non vitae, nemo dolor tempora, necessitatibus enim sapiente quam voluptas architecto minima omnis sequi aperiam aliquam vel quo reprehenderit, tempore tenetur. Architecto dolorem assumenda voluptas, odio nemo vero illo praesentium pariatur, ut perspiciatis, est itaque minus ratione vitae laboriosam molestiae.</p>
-      "
 ---

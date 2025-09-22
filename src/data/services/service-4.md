@@ -1,42 +1,35 @@
 ---
 # Detalles de vista previa
-title: "Desarrollo de Conceptos en Consultoría Creativa"
-preview_title: "Consultoría Creativa <br>Desarrollo de Conceptos"
-short: "Nuestra agencia creativa es un equipo de profesionales enfocados en ayudar a que tu marca crezca."
+title: "Servicio de Fotografía"
+preview_title: "Fotografía de<br> Alta Calidad"
+short: "Fotografía profesional que conecta emociones, refuerza identidad y genera impacto."
 
 # Detalles completos
-introTitle: Consultoría <span class="mil-thin">Creativa</span><br> y <span class="mil-thin">Desarrollo</span> de Conceptos
+introTitle: Servicio de<br> Fotografía
 
 description:
-  title: Tu <span class="mil-thin">Enfoque</span> <br>y <span class="mil-thin">Especificaciones del Trabajo</span>
-  content: En nuestra agencia, tenemos un enfoque único para el diseño y desarrollo de sitios web. Creemos en crear sitios web que no solo se vean bien, sino que también tengan un buen rendimiento en términos de experiencia de usuario, funcionalidad y optimización para motores de búsqueda.
+  title: <span class="mil-thin">Capturamos la Esencia</span><br> del Momento
+  content: La primera impresión cuenta. Con nuestro servicio de fotografía, convertimos tu imagen profesional en una verdadera ventaja competitiva. Cada sesión refleja los valores y la personalidad de tu empresa con la calidad que mereces. Así es como lo logramos.
   button:
     link: /projects
     label: Ver trabajos
 
 list:
   items:
-    - label: "Auditorías UX"
+    - label: "¿Qué Incluye Nuestro Servicio?"
       value: "
-      <p>Una auditoría UX es un servicio que evalúa la experiencia de usuario (UX) de un sitio web. Implica analizar el diseño, la funcionalidad y el contenido del sitio web para identificar áreas de mejora que puedan mejorar la experiencia general del usuario.</p>
-      <p>Durante una auditoría UX, un equipo de expertos en UX llevará a cabo una revisión exhaustiva del sitio web y proporcionará un informe detallado que describa recomendaciones específicas para mejorar la usabilidad, accesibilidad y experiencia general del usuario del sitio web.</p>
-      <p>La auditoría puede cubrir varios aspectos del sitio web, como la navegación, el diseño, la estructura del contenido y la capacidad de respuesta móvil. El objetivo es identificar puntos de dolor u obstáculos que los usuarios puedan encontrar mientras navegan por el sitio web y proporcionar recomendaciones prácticas para mejorar su experiencia.</p>
-      <p>En resumen, una auditoría UX puede ayudar a los propietarios de sitios web a identificar áreas de mejora que pueden mejorar la experiencia de usuario de su sitio web e incrementar el compromiso y la satisfacción de los usuarios.</p>
+        <p>Nuestro servicio de fotografía profesional abarca todo lo que tu empresa necesita para proyectar una imagen sólida y confiable. Realizamos sesiones de fotos corporativas completas que incluyen retratos ejecutivos, fotografías de equipo y ambientes de trabajo que reflejan la cultura organizacional.</p><p>También nos especializamos en fotografía profesional LinkedIn optimizada para que tus perfiles destaquen en el entorno digital más importante para los negocios.</p><p>Adicionalmente, desarrollamos fotografía de productos y servicios con técnicas avanzadas de iluminación y composición que resaltan las características únicas de cada elemento. Cada proyecto incluye post-producción profesional, selección de las mejores tomas y entrega en múltiples formatos según tus necesidades específicas de comunicación.</p>
       "
-
-    - label: "Pensamiento de diseño"
+    - label: "Nuestro Proceso de Trabajo"
       value: "
-      <p>El pensamiento de diseño es un enfoque para resolver problemas que pone énfasis en la empatía, la creatividad y la colaboración. Implica comprender las necesidades y perspectivas de los usuarios, identificar y definir el problema, generar múltiples soluciones posibles, prototipar y probar esas soluciones, y hacer iteraciones basadas en los comentarios.</p>
-      <p>El pensamiento de diseño fomenta un enfoque centrado en el ser humano para la innovación y se utiliza a menudo en campos como el diseño de productos, el diseño de experiencia de usuario (UX) y la estrategia empresarial para crear soluciones innovadoras y centradas en el usuario. Promueve una mentalidad que abraza la experimentación, la iteración y el aprendizaje continuo a lo largo del proceso de diseño.</p>
+        <p>Iniciamos cada proyecto con una consulta estratégica donde analizamos tus objetivos comerciales y definimos el concepto visual más efectivo para tu marca. Durante la planificación, diseñamos la logística completa incluyendo locaciones, cronograma y propuestas estéticas que se alineen con tu identidad corporativa.</p><p>En la sesión fotográfica usamos equipos de última generación, iluminación profesional y dirección precisa para resaltar la esencia de cada persona o producto. Luego editamos y optimizamos cada imagen con detalle, asegurando resultados de alta calidad. Todo el proceso es eficiente y se adapta a tus tiempos sin perder excelencia.</p>
       "
-
-    - label: "Wireframing"
+    - label: "Por Qué Elegirnos Como tu Aliado Visual"
       value: "
-      <p>El wireframing es un paso vital en el diseño web donde se crea una representación visual de la estructura de un sitio web. Se enfoca en el diseño y la experiencia de usuario, utilizando formas y líneas básicas para delinear elementos como encabezados, menús y secciones de contenido. Los wireframes establecen la arquitectura y funcionalidad del sitio web, facilitando la comunicación entre diseñadores, desarrolladores y clientes. Sirven como un plano para sitios web fáciles de usar, estableciendo la base para el diseño y el desarrollo.</p>
+        <p>Nuestra experiencia de más de 15 años en el mercado audiovisual nos ha permitido desarrollar un expertise único en fotografía corporativa que va más allá de la técnica. Comprendemos profundamente las necesidades específicas del mundo empresarial y sabemos cómo traducir los valores de marca en imágenes que conectan y generan confianza.</p><p>Combinamos creatividad artística y enfoque comercial para que cada fotografía cumpla objetivos estratégicos. Hemos trabajado con empresas de distintos sectores, lo que nos permite adaptarnos a cualquier industria. Ofrecemos entregas puntuales, comunicación constante y resultados que superan expectativas, respaldados por casos de éxito y clientes satisfechos.</p>
       "
-
-    - label: "Metodologías"
+    - label: "Áreas de Fotografía que Dominamos"
       value: "
-      <p>Libero quam alias tempora facilis necessitatibus quis officiis voluptatem architecto harum exercitationem quidem illum eligendi. Veniam non vitae, nemo dolor tempora, necessitatibus enim sapiente quam voluptas architecto minima omnis sequi aperiam aliquam vel quo reprehenderit, tempore tenetur. Architecto dolorem assumenda voluptas, odio nemo vero illo praesentium pariatur, ut perspiciatis, est itaque minus ratione vitae laboriosam molestiae.</p>
+        <p>Nos especializamos en fotografía corporativa ejecutiva donde capturamos la presencia y liderazgo de directivos y empresarios con un enfoque profesional que transmite autoridad y confiabilidad. En fotografía de productos desarrollamos desde sesiones básicas de catálogo hasta producciones complejas que requieren técnicas especializadas como macro, still life y fotografía 360 grados.</p><p>Realizamos fotografía de eventos corporativos como presentaciones, conferencias y celebraciones, siempre con un estilo discreto y efectivo. También ofrecemos fotografía industrial de instalaciones, procesos y equipos, destacando lo más importante de cada sector. Contamos con años de experiencia y un portafolio variado que demuestra nuestra capacidad de adaptación y excelencia en cualquier contexto empresarial.</p>
       "
 ---
