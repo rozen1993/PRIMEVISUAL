@@ -10,22 +10,22 @@
         {
             "title": "Organización de Eventos",
             "text": "Planificamos cada detalle para que tu evento sea único e inolvidable.",
-            "link": "/services/service-2"
+            "link": "/services/organizadores-de-eventos-en-lima"
         },
         {
             "title": "Cobertura para Eventos",
             "text": "Cobertura completa en foto y video para que tu evento perdure en el tiempo.",
-            "link": "/services/service-2"
+            "link": "/services/foto-y-video-para-eventos"
         },
         {
             "title": "Edición y Postproducción de Video",
             "text": "Transformamos tu material en videos impactantes con ritmo, color y narrativa.",
-            "link": "/services/service-3"
+            "link": "/services/edicion-de-videos-en-lima"
         },
         {
             "title": "Fotografía Profesional",
             "text": "Capturamos la belleza de cada instante con precisión, luz y composición.",
-            "link": "/services/service-4"
+            "link": "/services/servicio-de-fotografia"
         }
     ]
 }
