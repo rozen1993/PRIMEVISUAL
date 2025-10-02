@@ -1,6 +1,6 @@
 {
     "settings": {
-        "siteName": "Safari",
+        "siteName": "Midnight Studios",
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "mailchimp": {
             "url": "",
@@ -9,12 +9,12 @@
     },
     "header": {
         "logo": {
-            "symbol": "S",
+            "symbol": "M.",
             "link": "/"
         },
         "menu": [
             {
-                "label": "Safari",
+                "label": "Midnight Studios",
                 "link": "/",
                 "children": [
                 ]
@@ -46,9 +46,9 @@
     },
     "footer": {
         "logo": {
-            "text": "Safari."
+            "text": "Midnight."
         },
-        "copy": "© 2025 Safari. Todos Los Derechos Reservados",
+        "copy": "© 2025 Midnight. Todos Los Derechos Reservados",
         "menu": [
             {
                 "label": "Inicio",
