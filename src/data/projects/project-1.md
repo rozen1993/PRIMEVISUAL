@@ -1,6 +1,6 @@
 ---
 #vista previa
-title: Estudio de diseño de interiores
+title: Premiun Taste Lima
 image: /img/works/1.jpg
 category: TECNOLOGÍA
 date: mayo 24 2023

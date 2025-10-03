@@ -1,6 +1,6 @@
 ---
 #vista previa
-title: Kemia Honest Skincare
+title: Dove Doblemente Poderosas
 image: /img/works/3.jpg
 category: TECNOLOGÍA
 date: mayo 24 2023
@@ -9,33 +9,32 @@ date: mayo 24 2023
 layout: "three"
 
 #detalles completos
-introTitle: Kemia Honest <span class="mil-thin">Skincare</span>
+introTitle: <span class="mil-thin">El doble poder que</span> transforma
 
 details:
     - label: "Cliente:"
-      value: "Dogma"
+      value: "Dove"
 
     - label: "Fecha:"
-      value: "Abril 2023"
+      value: "Octubre 2022"
 
-    - label: "Autor"
-      value: "Steve Trueman"
+    - label: "Campaña:"
+      value: "Doblemente Poderosas"
 
 description:
     enabled: 1
-    title: ¡Simplicidad, elegancia, innovación!
+    title: Historias reales que inspiran
     content: "
-      <p>Una cámara de vigilancia para el hogar que pone gran atención en la seguridad y privacidad del usuario, con dos modos para ofrecer seguridad mientras protege la privacidad personal. La cámara tiene un modo abierto y cerrado, definimos el producto con dos lados claros, expresando dos estados de trabajo y emociones.</p>
-      <p>Presenta un estado simple y silencioso cuando no está en uso, ofreciendo una sensación de calma y seguridad. Al mismo tiempo, la cámara se adapta a una variedad de entornos, proporcionando elegantes opciones de instalación, tanto de pared como en pie.</p>
+      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como “súper suavecito” o “de toda la vida” se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
     "
 
 gallery: 
     enabled: 1
     items:
-        - image: /img/works/3/1.jpg
+        - image: /img/works/3/1.jpeg
           alt: "imagen"
 
-        - image: /img/works/3/2.jpg
+        - image: /img/works/3/2.jpeg
           alt: "imagen"
 
         - image: /img/works/3/3.jpg

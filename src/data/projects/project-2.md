@@ -1,6 +1,6 @@
 ---
 #vista previa
-title: Cámara de Seguridad para el Hogar
+title: Redinter 25 Años
 image: /img/works/2.jpg
 category: TECNOLOGÍA
 date: mayo 24 2023
