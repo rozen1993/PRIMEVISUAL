@@ -21,11 +21,16 @@ details:
     - label: "Campaña:"
       value: "Doblemente Poderosas"
 
+# ✅ SECCIÓN VIDEO AÑADIDA
+video:
+    url: "https://www.youtube.com/embed/S9PkDJWrY9E"
+    thumbnail: "/img/works/3/video-thumb.jpg"
+
 description:
     enabled: 1
     title: Historias reales que inspiran
     content: "
-      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como “súper suavecito” o “de toda la vida” se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
+      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como \"súper suavecito\" o \"de toda la vida\" se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
     "
 
 gallery: 

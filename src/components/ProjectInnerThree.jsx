@@ -1,37 +1,33 @@
+// En tu ProjectInner3.jsx - importación actualizada
 import Link from "next/link";
 import { SliderProps } from "@/src/common/sliderProps";
 import { Swiper, SwiperSlide } from "swiper/react";
 import ImageView from "@components/ImageView";
+import VideoModal from "@components/video-modal/VideoModal"; // ← Ruta actualizada
 
 const ProjectInner3 = ({ postData, prev, next }) => {
     return (
         <>
-        {/* project */}
         <section id="project">
             <div className="container mil-p-120-120">
-                {typeof postData.gallery != "undefined" &&
-                <>
-                    {postData.gallery.enabled == 1 &&
-                    <Swiper
-                        {...SliderProps.milOneSlider}
-                        className="swiper-container mil-1-slider mil-up"
-                    >
-                        {postData.gallery.items.map((item, key) => (
-                        <SwiperSlide className="swiper-slide" key={`projects-item-${key}`}>
 
-                            <div className="mil-image-frame mil-horizontal mil-drag">
-                                <img src={item.image} alt={item.alt} />
-                                <a data-fancybox="gallery" data-no-swup href={item.image} className="mil-zoom-btn">
-                                    <img src="/img/icons/zoom.svg" alt="zoom" />
-                                </a>
-                            </div>
+                {postData.video && postData.video.url && (
+                    <div className="mil-up mil-mt-120">
+                        <h4 className="mil-text-center mil-mb-60">Video del Proyecto</h4>
+                        <VideoModal 
+                            videoUrl={postData.video.url}
+                            thumbnail={postData.video.thumbnail}
+                            title={postData.title}
+                        />
+                    </div>
+                )}
+                
+                
 
-                        </SwiperSlide>
-                        ))}
-                    </Swiper>
-                    }
-                </>
-                }
+                {/* ✅ VIDEO MODAL - Con la nueva ruta */}
+                
+
+                {/* El resto de tu código permanece igual */}
                 {typeof postData.details != "undefined" &&
                 <div className="mil-info mil-up">
                     {postData.details.map((item, key) => (
@@ -62,7 +58,6 @@ const ProjectInner3 = ({ postData, prev, next }) => {
 
             <ImageView />
         </section>
-        {/* project end */}
         </>
     );
 };
