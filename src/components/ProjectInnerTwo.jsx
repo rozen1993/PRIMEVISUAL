@@ -1,5 +1,6 @@
 import Link from "next/link";
 import ImageView from "@components/ImageView";
+import VideoModal from "@components/video-modal/VideoModal";
 
 const ProjectInner2 = ({ postData, prev, next }) => {
     return (
@@ -8,7 +9,7 @@ const ProjectInner2 = ({ postData, prev, next }) => {
     <section>
         <div className="container mil-p-120-120" id="project">
             <div className="row justify-content-between mil-mb-120">
-                <div className="col-lg-4">
+                <div className="col-lg-4 order-2 order-md-0">
 
                     <div className="mil-p-0-120">
                         {typeof postData.details != "undefined" &&
@@ -39,22 +40,16 @@ const ProjectInner2 = ({ postData, prev, next }) => {
 
                 </div>
                 <div className="col-lg-7">
-                    {typeof postData.gallery != "undefined" &&
-                    <>
-                    {postData.gallery.enabled == 1 &&
-                        <>
-                        {postData.gallery.items.map((item, key) => (
-                        <div className="mil-image-frame mil-horizontal mil-up mil-mb-30" key={`gallery-item-${key}`}>
-                            <img src={item.image} alt={item.alt} />
-                            <a data-fancybox="gallery" data-no-swup href={item.image} className="mil-zoom-btn">
-                                <img src="/img/icons/zoom.svg" alt="zoom" />
-                            </a>
+                    {/* VideoModal en lugar de galería */}
+                    {postData.video && postData.video.url && (
+                        <div className="mil-up">
+                            <VideoModal
+                                videoUrl={postData.video.url}
+                                thumbnail={postData.video.thumbnail}
+                                title={postData.title}
+                            />
                         </div>
-                        ))}
-                        </>
-                    }
-                    </>
-                    }
+                    )}
                 </div>
             </div>
             <div className="mil-works-nav mil-up">

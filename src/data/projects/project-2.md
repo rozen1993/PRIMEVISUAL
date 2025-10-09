@@ -1,47 +1,52 @@
 ---
 #vista previa
-title: Redinter 25 Años
-image: /img/works/2.jpg
+title: Dove Doblemente Poderosas
+image: /img/works/3.jpg
 category: TECNOLOGÍA
 date: mayo 24 2023
 
 #params
-layout: "two"
+layout: "three"
 
 #detalles completos
-introTitle: "Cámara de Seguridad <span class=\"mil-thin\">para el Hogar</span>"
+introTitle: <span class="mil-thin">El doble poder que</span> transforma
+
 details:
     - label: "Cliente:"
-      value: "Coca Cola"
+      value: "Dove"
 
     - label: "Fecha:"
-      value: "Diciembre 2024"
+      value: "Octubre 2022"
 
-    - label: "Autor"
-      value: "Gordon Trueman"
+    - label: "Campaña:"
+      value: "Doblemente Poderosas"
+
+# ✅ SECCIÓN VIDEO AÑADIDA
+
+video:
+    url: "/videos/proyecto-3/dove.mp4"
+    thumbnail: "/videos/proyecto-3/dovebg.jpg"
+    isLocal: true
 
 description:
     enabled: 1
-    title: ¡Simplicidad, elegancia, innovación!
+    title: Historias reales que inspiran
     content: "
-      <p>Una cámara de vigilancia para el hogar que pone gran atención en la seguridad y privacidad del usuario, con dos modos para ofrecer seguridad mientras protege la privacidad personal. La cámara tiene un modo abierto y cerrado, definimos el producto con dos lados claros, expresando dos estados de trabajo y emociones.</p>
-      <p>Presenta un estado simple y silencioso cuando no está en uso, ofreciendo una sensación de calma y seguridad. Al mismo tiempo, la cámara se adapta a una variedad de entornos, proporcionando elegantes opciones de instalación, tanto de pared como en pie.</p>
+      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como \"súper suavecito\" o \"de toda la vida\" se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
     "
-
-demoLink: "https://www.behance.net/gallery/117994149/Home-Security-Camera?tracking_source=curated_galleries_product-design"
 
 gallery: 
     enabled: 1
     items:
-        - image: /img/works/2/1.gif
+        - image: /img/works/3/1.jpeg
           alt: "imagen"
 
-        - image: /img/works/2/2.jpg
+        - image: /img/works/3/2.jpeg
           alt: "imagen"
 
-        - image: /img/works/2/3.jpg
+        - image: /img/works/3/3.jpg
           alt: "imagen"
 
-        - image: /img/works/2/4.jpg
+        - image: /img/works/3/4.jpg
           alt: "imagen"
 ---
