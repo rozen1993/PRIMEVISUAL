@@ -22,9 +22,11 @@ details:
       value: "Doblemente Poderosas"
 
 # ✅ SECCIÓN VIDEO AÑADIDA
+
 video:
-    url: "https://www.youtube.com/embed/S9PkDJWrY9E"
-    thumbnail: "/img/works/3/video-thumb.jpg"
+    url: "/videos/proyecto-3/dove.mp4"
+    thumbnail: "/videos/proyecto-3/dovebg.jpg"
+    isLocal: true
 
 description:
     enabled: 1
