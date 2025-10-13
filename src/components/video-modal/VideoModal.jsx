@@ -2,7 +2,7 @@
 "use client";
 import { useState } from "react";
 import styles from "./VideoModal.module.css";
-import Image from "next/image";
+import { IoMdPlay } from "react-icons/io";
 
 const newStyles = {
   opacity: 1,
@@ -52,12 +52,7 @@ export default function VideoModal({
         />
         {/* Botón play */}
         <div style={newStyles} className={`${styles.playButton}`}>
-          <Image
-            src="/img/icons/play.png"
-            alt="Play"
-            width={20}
-            height={20}
-          />
+          <IoMdPlay size={25} color="white" className="play-icon" />
         </div>
       </div>
 
