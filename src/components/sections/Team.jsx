@@ -38,13 +38,13 @@ const TeamSection = () => {
                                         <img src={item.image} alt={item.name} />
                                         <div className="mil-description">
                                             <div className="mil-secrc-text">
-                                                <h5 className="mil-muted mil-mb-5">{item.name}</h5>
-                                                <p className="mil-link mil-light-soft mil-mb-10">{item.role}</p>
-                                                <ul className="mil-social-icons mil-center">
+                                                <h5 className="mil-muted mil-mb-5" style={{padding: '0 0 5rem 0'}}>{item.name}</h5>
+                                                {/* <p className="mil-link mil-light-soft mil-mb-10">{item.role}</p> */}
+                                                {/* <ul className="mil-social-icons mil-center">
                                                     {item.social.map((social, key2) => (
                                                     <li key={`services1-item${key}-social-${key2}`}><a href={social.link} target="_blank" className="social-icon" title={social.title}> <i className={social.icon} /></a></li>
                                                     ))}
-                                                </ul>
+                                                </ul> */}
                                             </div>
                                         </div>
                                     </div>
@@ -62,13 +62,13 @@ const TeamSection = () => {
                                         <img src={item.image} alt={item.name} />
                                         <div className="mil-description">
                                             <div className="mil-secrc-text">
-                                                <h5 className="mil-muted mil-mb-5">{item.name}</h5>
-                                                <p className="mil-link mil-light-soft mil-mb-10">{item.role}</p>
+                                                <h5 className="mil-muted mil-mb-5" style={{padding: '0 0 5rem 0'}}>{item.name}</h5>
+                                                {/* <p className="mil-link mil-light-soft mil-mb-10">{item.role}</p>
                                                 <ul className="mil-social-icons mil-center">
                                                     {item.social.map((social, key2) => (
                                                     <li key={`services2-item${key}-social-${key2}`}><a href={social.link} target="_blank" className="social-icon" title={social.title}> <i className={social.icon} /></a></li>
                                                     ))}
-                                                </ul>
+                                                </ul> */}
                                             </div>
                                         </div>
                                     </div>

@@ -3,22 +3,22 @@
     "subtitle": "Las reseñas de clientes son una fuente valiosa <br>de información tanto para empresas como para consumidores.",
     "items": [
         {
-            "name": "Paul Trueman",
+            "name": "Valeria Rojas",
             "image": "/img/customers/1.jpg",
-            "role": "Aplicación Eqanta",
-            "text": "Trabajar con Courtney Davis como nuestra diseñadora de UI fue un placer absoluto. Su atención al detalle y su enfoque creativo dieron vida a nuestra visión. La interfaz de usuario que diseñó superó nuestras expectativas, y recibimos comentarios positivos de nuestros clientes. ¡Altamente recomendada!"
+            "role": "Brand Manager Dove",
+            "text": "Trabajar con Midnight Studios fue una experiencia transformadora. Supieron captar la esencia de Dove y reflejarla en un diseño sensible, elegante y cercano. Cada detalle transmitió los valores de cuidado y autenticidad que representan nuestra marca. El resultado final superó nuestras expectativas y fortaleció nuestra conexión con el público."
         },
         {
-            "name": "Olivia Oldman",
+            "name": "Luis Gutiérrez",
             "image": "/img/customers/2.jpg",
-            "role": "Aplicación Eqanta",
-            "text": "Tuve la oportunidad de colaborar con Courtney, y debo decir que es increíblemente talentosa. Su capacidad para entender nuestra marca y traducirla en una interfaz fue impresionante. Los diseños de Courtney fueron intuitivos y mejoraron la experiencia general del usuario. ¡Espero trabajar con ella nuevamente!"
+            "role": "Jefe de Canales Digitales Claro",
+            "text": "El equipo de Midnight Studios entendió perfectamente nuestros desafíos digitales. Su propuesta innovadora y centrada en el usuario optimizó la navegación y mejoró la percepción de la marca. Destacamos su profesionalismo, rapidez y comunicación constante. Gracias a ellos, nuestra plataforma refleja la experiencia moderna que Claro busca ofrecer."
         },
         {
-            "name": "Oscar Newman",
+            "name": "Mariana Torres",
             "image": "/img/customers/3.jpg",
-            "role": "Aplicación Eqanta",
-            "text": "Courtney Davis es una diseñadora de UI excepcional. Tiene un agudo sentido estético y sabe cómo crear interfaces. Los diseños de Courtney mejoraron enormemente la usabilidad de nuestra aplicación, y no podríamos estar más felices con los resultados. ¡Altamente capacitada y confiable!"
+            "role": "Jefa de Área de Marketing El Comercio",
+            "text": "Colaborar con Midnight Studios fue clave para modernizar nuestra experiencia digital. Supieron equilibrar diseño, funcionalidad y narrativa visual, creando una interfaz intuitiva y atractiva para nuestros lectores. Su compromiso, atención al detalle y visión estratégica marcaron la diferencia. Los recomendamos plenamente por su talento y profesionalismo."
         }
     ]
 }

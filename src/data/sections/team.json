@@ -1,16 +1,16 @@
 {
-    "title": "Servicios <br>Extra",
+    "title": "Servicios <br>Adicionales",
     "description": "<p>Somos un equipo creativo que amplía los límites de la producción audiovisual. Además de crear contenido visual de alto impacto, ofrecemos servicios que potencian cada proyecto: manejo estratégico de redes sociales, vuelo de dron profesional, desarrollo web y activaciones BTL.</p><p>Trabajamos de manera integral para que cada marca conecte con su público desde múltiples frentes, combinando innovación, tecnología y storytelling para lograr resultados memorables.</p>",
     "subtitle": "<span class=\"mil-thin\">Nosotros</span> entregamos <br><span class=\"mil-thin\">resultados excepcionales</span>.",
     "button": {
         "link": "/services",
         "label": "Leer más"
     },
-    "note": "<span class=\"mil-accent\">*</span> Los fundadores de nuestra agencia",
+    "note": "<span class=\"mil-accent\">*</span> Creamos experiencias que conectan",
     "col1_items": [
         {
             "image": "/img/faces/1.jpg",
-            "name": "Anna Oldman",
+            "name": "Videos con Dron",
             "role": "Directora de Arte",
             "social": [
                 {
@@ -37,7 +37,7 @@
         },
         {
             "image": "/img/faces/3.jpg",
-            "name": "Oscar Freeman",
+            "name": "Activaciones BTL",
             "role": "Desarrollador Frontend",
             "social": [
                 {
@@ -66,7 +66,7 @@
     "col2_items": [
         {
             "image": "/img/faces/2.jpg",
-            "name": "Emma Newman",
+            "name": "Desarrollo Web",
             "role": "Fundadora",
             "social": [
                 {
@@ -93,7 +93,7 @@
         },
         {
             "image": "/img/faces/4.jpg",
-            "name": "Lisa Trueman",
+            "name": "Redes Sociales",
             "role": "Diseñadora UI/UX",
             "social": [
                 {
