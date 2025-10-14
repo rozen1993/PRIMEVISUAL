@@ -1,17 +1,37 @@
-import ArrowIcon from "@layouts/svg-icons/Arrow";
+import { FaWhatsapp } from "react-icons/fa";
 
 const BackToTopModule = () => {
+    const phoneNumber = "51994015598";
+    const defaultMessage = "Hola, me gustaría obtener más información";
+    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(defaultMessage)}`;
+
     return (
         <>
-            {/* back to top */}
             <div className="mil-back-to-top">
-                <a href="#top" className="mil-link mil-dark mil-arrow-place">
-                    <span>Volver Arriba</span>
-                    <ArrowIcon />
+                <a 
+                    href={whatsappUrl} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    style={{
+                        backgroundColor: '#25D366',
+                        borderRadius: '50%',
+                        width: '60px',
+                        height: '60px',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        textDecoration: 'none',
+                        position: 'fixed',
+                        transform: 'scaleY(-1)',
+                        zIndex: 1000,
+                        boxShadow: '0 4px 8px rgba(0,0,0,0.2)'
+                    }}
+                >
+                    <FaWhatsapp color="white" size={28} />
                 </a>
             </div>
-            {/* back to top end */}
         </>
     );
 };
+
 export default BackToTopModule;
