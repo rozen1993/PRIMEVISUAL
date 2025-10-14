@@ -65,16 +65,16 @@ const DefaultFooter = ( { extraClass } ) => {
 
                             <div className="col-md-6 col-lg-5 mil-mb-60">
 
-                                <h6 className="mil-muted mil-up mil-mb-30">San Isidro</h6>
+                                <h6 className="mil-muted mil-up mil-mb-30">Cercado de Lima</h6>
 
-                                <p className="mil-light-soft mil-up">Av. Pardo y Aliaga 640 <span className="mil-no-wrap">+51 174 705 812</span></p>
+                                <p className="mil-light-soft mil-up">Calle Teniente Carlos Moore 1412<span className="mil-no-wrap"> Los Cipreses</span></p>
 
                             </div>
                             <div className="col-md-6 col-lg-5 mil-mb-60">
 
-                                <h6 className="mil-muted mil-up mil-mb-30">Lince</h6>
+                                <h6 className="mil-muted mil-up mil-mb-30">Contacto</h6>
 
-                                <p className="mil-light-soft mil-up">Calle Berlín 400<span className="mil-no-wrap">+31 174 705 811</span></p>
+                                <p className="mil-light-soft mil-up">info@midnightstudios.com.pe <span className="mil-no-wrap">+51 960196221</span></p>
 
                             </div>
                         </div>

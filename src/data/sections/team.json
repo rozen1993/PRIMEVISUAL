@@ -1,9 +1,9 @@
 {
-    "title": "Conoce a <br> Nuestro Equipo",
-    "description": "<p>Somos individuos talentosos que estamos apasionados por hacer realidad las ideas. Con una amplia variedad de antecedentes y habilidades, colaboramos para producir soluciones efectivas para nuestros clientes.</p><p>Juntos, nuestro equipo creativo está comprometido en entregar trabajos impactantes que superen las expectativas.</p>",
+    "title": "Servicios <br>Extra",
+    "description": "<p>Somos un equipo creativo que amplía los límites de la producción audiovisual. Además de crear contenido visual de alto impacto, ofrecemos servicios que potencian cada proyecto: manejo estratégico de redes sociales, vuelo de dron profesional, desarrollo web y activaciones BTL.</p><p>Trabajamos de manera integral para que cada marca conecte con su público desde múltiples frentes, combinando innovación, tecnología y storytelling para lograr resultados memorables.</p>",
     "subtitle": "<span class=\"mil-thin\">Nosotros</span> entregamos <br><span class=\"mil-thin\">resultados excepcionales</span>.",
     "button": {
-        "link": "/team",
+        "link": "/services",
         "label": "Leer más"
     },
     "note": "<span class=\"mil-accent\">*</span> Los fundadores de nuestra agencia",
