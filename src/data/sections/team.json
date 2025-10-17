@@ -4,6 +4,7 @@
     "subtitle": "<span class=\"mil-thin\">Nosotros</span> entregamos <br><span class=\"mil-thin\">resultados excepcionales</span>.",
     "button": {
         "link": "/services",
+        "link": "/services",
         "label": "Leer más"
     },
     "note": "<span class=\"mil-accent\">*</span> Creamos experiencias que conectan",
