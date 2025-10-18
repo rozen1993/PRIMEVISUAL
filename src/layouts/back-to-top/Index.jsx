@@ -1,7 +1,7 @@
 import { FaWhatsapp } from "react-icons/fa";
 
 const BackToTopModule = () => {
-    const phoneNumber = "51960196221";
+    const phoneNumber = "51994015598";
     const defaultMessage = "Hola, me gustaría obtener más información";
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(defaultMessage)}`;
 
