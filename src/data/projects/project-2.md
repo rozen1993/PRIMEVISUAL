@@ -1,8 +1,8 @@
 ---
 #vista previa
 title: Dove Doblemente Poderosas
-image: /img/works/3.jpg
-category: TECNOLOGÍA
+image: /img/works/2a.jpg
+category: BIENESTAR
 date: mayo 24 2023
 
 #params
@@ -25,7 +25,7 @@ details:
 
 video:
     url: "/videos/proyecto-3/dove.mp4"
-    thumbnail: "/videos/proyecto-3/dovebg.jpg"
+    thumbnail: "/videos/proyecto-2/dove2.jpg"
     isLocal: true
 
 description:

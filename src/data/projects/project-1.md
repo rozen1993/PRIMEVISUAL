@@ -1,7 +1,7 @@
 ---
 #vista previa
 title: Premium Taste Lima 2024
-image: /img/works/1a.jpg
+image: /img/works/1a.jpeg
 category: GOURMET
 date: octubre 12 2024
 

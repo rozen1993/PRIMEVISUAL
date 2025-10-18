@@ -1,8 +1,8 @@
 ---
 #vista previa
-title: Dove Doblemente Poderosas
-image: /img/works/3.jpg
-category: TECNOLOGÍA
+title: Boom of Colors
+image: /img/works/3a.jpg
+category: SOCIAL
 date: mayo 24 2023
 
 #params
@@ -25,7 +25,7 @@ details:
 
 video:
     url: "/videos/proyecto-3/dove.mp4"
-    thumbnail: "/videos/proyecto-3/dovebg.jpg"
+    thumbnail: "/videos/proyecto-3/boombg.jpeg"
     isLocal: true
 
 description:
