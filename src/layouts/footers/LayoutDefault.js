@@ -100,10 +100,10 @@ const DefaultFooter = ( { extraClass } ) => {
                   <div className="col-md-6 col-lg-5">
 
                     <ul className="mil-menu-list mil-up mil-mb-60">
-                      <li><a href="#." className="mil-light-soft">Política de privacidad</a></li>
-                      <li><a href="#." className="mil-light-soft">Términos y condiciones</a></li>
-                      <li><a href="#." className="mil-light-soft">Política de cookies</a></li>
-                      <li><a href="#." className="mil-light-soft">Alianzas Regionales</a></li>
+                      <li><a href="/pdf/doc1.pdf" target="_blank" className="mil-light-soft">Política de privacidad</a></li>
+                      <li><a href="/pdf/doc2.pdf" target="_blank" className="mil-light-soft">Términos y condiciones</a></li>
+                      {/* <li><a href="/pdf/doc1.pdf" target="_blank" className="mil-light-soft">Política de cookies</a></li> */}
+                      <li><a href="/pdf/doc3.pdf" target="_blank" className="mil-light-soft">Alianzas Regionales</a></li>
                     </ul>
 
                   </div>
