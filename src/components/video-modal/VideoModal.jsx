@@ -45,7 +45,7 @@ export default function VideoModal({
           fill
           sizes="(max-width: 768px) 100vw, 50vw"
           className="mil-scale-img"
-          style={{ objectFit: "cover", cursor: "pointer" }}
+          style={{ objectFit: "cover"}}
           priority={false}
         />
 
