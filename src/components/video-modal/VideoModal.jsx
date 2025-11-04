@@ -1,12 +1,11 @@
-// components/video-modal/VideoModal.jsx
 "use client";
 import { useState } from "react";
+import Image from "next/image";
 import styles from "./VideoModal.module.css";
 import { IoMdPlay } from "react-icons/io";
 
 const newStyles = {
   opacity: 1,
-  transform: "translateY(15px)",
   position: "absolute",
   top: "50%",
   left: "50%",
@@ -20,10 +19,6 @@ const newStyles = {
   backgroundColor: "black",
 };
 
-const imgStyle = {
-  maxWidth: "1.5rem",
-};
-
 export default function VideoModal({
   videoUrl,
   thumbnail,
@@ -32,7 +27,6 @@ export default function VideoModal({
 }) {
   const [isOpen, setIsOpen] = useState(false);
 
-  // Determina si es YouTube/Vimeo o local
   const isEmbedUrl =
     videoUrl?.includes("youtube") ||
     videoUrl?.includes("vimeo") ||
@@ -45,25 +39,29 @@ export default function VideoModal({
         className={`mil-image-frame mil-horizontal ${styles.thumbnail}`}
         onClick={() => setIsOpen(true)}
       >
-        <img
+        <Image
           src={thumbnail}
           alt={`Video de ${title}`}
+          fill
+          sizes="(max-width: 768px) 100vw, 50vw"
           className="mil-scale-img"
+          style={{ objectFit: "cover", cursor: "pointer" }}
+          priority={false}
         />
+
         {/* Botón play */}
         <div style={newStyles} className={`${styles.playButton}`}>
           <IoMdPlay size={25} color="white" className="play-icon" />
         </div>
       </div>
 
-      {/* Modal Overlay */}
+      {/* Modal */}
       {isOpen && (
         <div className={styles.overlay} onClick={() => setIsOpen(false)}>
           <div
             className={styles.modalContent}
             onClick={(e) => e.stopPropagation()}
           >
-            {/* Botón cerrar */}
             <button
               onClick={() => setIsOpen(false)}
               className={styles.closeButton}
@@ -71,10 +69,8 @@ export default function VideoModal({
               ✕
             </button>
 
-            {/* Video - Diferente según el tipo */}
             <div className={styles.videoContainer}>
               {isEmbedUrl ? (
-                // Para YouTube/Vimeo
                 <iframe
                   src={videoUrl}
                   className={styles.videoIframe}
@@ -83,7 +79,6 @@ export default function VideoModal({
                   title={`Video de ${title}`}
                 />
               ) : (
-                // Para video local
                 <video controls autoPlay className={styles.videoElement}>
                   <source src={videoUrl} type="video/mp4" />
                   <source src={videoUrl} type="video/webm" />
