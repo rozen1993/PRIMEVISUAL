@@ -1,55 +1,52 @@
 ---
 #vista previa
-title: Air Pro de Molekule
-image: /img/works/5.jpg
-category: TECNOLOGÍA
-date: mayo 24 2023
+title: Premium Taste Lima 2024
+image: /videos/proyecto-5/e1.jpg
+category: GOURMET
+date: octubre 12 2024
 
 #params
-layout: "five"
+layout: "three"
 
 #detalles completos
-introTitle: Air Pro <span class="mil-thin">de Molekule</span>
-fullImage: /img/works/5/1.jpg
+introTitle: <span class="mil-thin">El doble poder que</span> transforma
+
 details:
     - label: "Cliente:"
-      value: "Dunkin"
+      value: "Premiun Tasting"
 
     - label: "Fecha:"
-      value: "Marzo 2024"
+      value: "Octubre 2024"
 
-    - label: "Autor"
-      value: "Paul Trueman"
+    - label: "Campaña:"
+      value: "Premiun Tasting Lima 2024"
+
+# ✅ SECCIÓN VIDEO AÑADIDA
+
+video:
+    url: "/videos/proyecto-1/dove.mp4"
+    thumbnail: "/videos/proyecto-5/e2.jpg"
+    isLocal: true
+
+description:
+    enabled: 1
+    title: Historias reales que inspiran
+    content: "
+      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como \"súper suavecito\" o \"de toda la vida\" se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
+    "
 
 gallery: 
     enabled: 1
     items:
-        - image: /img/works/5/2.jpg
+        - image: /img/works/3/1.jpeg
           alt: "imagen"
 
-        - image: /img/works/5/3.gif
+        - image: /img/works/3/2.jpeg
           alt: "imagen"
 
-        - image: /img/works/5/4.jpg
-          alt: "imagen"
-        
-        - image: /img/works/5/5.gif
+        - image: /img/works/3/3.jpg
           alt: "imagen"
 
-        - image: /img/works/5/6.jpg
-          alt: "imagen"
-
-description:
-    enabled: 1
-    title: ¡Simplicidad, elegancia, innovación!
-    content: "
-        <p>Una cámara de vigilancia para el hogar que presta gran atención a la seguridad y la privacidad del usuario, con dos modos para proporcionar seguridad mientras se protege la privacidad personal. La cámara tiene un modo abierto y cerrado, definimos el producto con dos lados claros, expresando dos estados de funcionamiento y emociones.</p>
-        <p>Presenta un estado simple y tranquilo cuando no está en uso, brindando una sensación de seguridad y suavidad. Al mismo tiempo, la cámara se adapta a una variedad de entornos, ofreciendo elegantes opciones para colgar en la pared o instalación de pie.</p>
-    "
-
-gallery2: 
-    enabled: 1
-    items:
-        - image: /img/works/5/7.gif
+        - image: /img/works/3/4.jpg
           alt: "imagen"
 ---

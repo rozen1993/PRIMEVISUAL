@@ -1,9 +1,9 @@
 ---
 #vista previa
-title: Premium Taste Lima 2024
-image: /img/works/1a.jpeg
-category: GOURMET
-date: octubre 12 2024
+title: Redinter 25 años
+image: /videos/proyecto-1/a1.jpg
+category: INSTITUCIONAL
+date: septiembre 2023
 
 #params
 layout: "three"
@@ -24,8 +24,8 @@ details:
 # ✅ SECCIÓN VIDEO AÑADIDA
 
 video:
-    url: "/videos/proyecto-3/dove.mp4"
-    thumbnail: "/videos/proyecto-1/premiumbg2.jpg"
+    url: "/videos/proyecto-1/redinter.mp4"
+    thumbnail: "/videos/proyecto-1/a2.jpg"
     isLocal: true
 
 description:

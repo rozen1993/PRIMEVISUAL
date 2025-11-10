@@ -1,9 +1,9 @@
 ---
 #vista previa
-title: Boom of Colors
-image: /img/works/3a.jpg
-category: SOCIAL
-date: mayo 24 2023
+title: Bloom of Colors
+image: /videos/proyecto-3/c1.jpg
+category: GOURMET
+date: octubre 12 2021
 
 #params
 layout: "three"
@@ -13,19 +13,19 @@ introTitle: <span class="mil-thin">El doble poder que</span> transforma
 
 details:
     - label: "Cliente:"
-      value: "Dove"
+      value: "Premiun Tasting"
 
     - label: "Fecha:"
-      value: "Octubre 2022"
+      value: "Octubre 2024"
 
     - label: "Campaña:"
-      value: "Doblemente Poderosas"
+      value: "Premiun Tasting Lima 2024"
 
 # ✅ SECCIÓN VIDEO AÑADIDA
 
 video:
-    url: "/videos/proyecto-3/dove.mp4"
-    thumbnail: "/videos/proyecto-3/boombg.jpeg"
+    url: "/videos/proyecto-1/dove.mp4"
+    thumbnail: "/videos/proyecto-3/c2.jpg"
     isLocal: true
 
 description:

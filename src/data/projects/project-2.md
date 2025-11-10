@@ -1,9 +1,9 @@
 ---
 #vista previa
-title: Dove Doblemente Poderosas
-image: /img/works/2a.jpg
-category: BIENESTAR
-date: mayo 24 2023
+title: Premium Taste Lima 2024
+image: /videos/proyecto-2/b1.jpg
+category: GOURMET
+date: octubre 12 2024
 
 #params
 layout: "three"
@@ -13,19 +13,19 @@ introTitle: <span class="mil-thin">El doble poder que</span> transforma
 
 details:
     - label: "Cliente:"
-      value: "Dove"
+      value: "Premiun Tasting"
 
     - label: "Fecha:"
-      value: "Octubre 2022"
+      value: "Octubre 2024"
 
     - label: "Campaña:"
-      value: "Doblemente Poderosas"
+      value: "Premiun Tasting Lima 2024"
 
 # ✅ SECCIÓN VIDEO AÑADIDA
 
 video:
-    url: "/videos/proyecto-3/dove.mp4"
-    thumbnail: "/videos/proyecto-2/dove2.jpg"
+    url: "/videos/proyecto-2/pr.mp4"
+    thumbnail: "/videos/proyecto-2/b2.jpg"
     isLocal: true
 
 description:

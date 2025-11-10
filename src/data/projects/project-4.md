@@ -1,56 +1,52 @@
 ---
 #vista previa
-title: Cascada de Lava
-image: /img/works/4.jpg
-category: TECNOLOGÍA
-date: mayo 24 2023
+title: Premium Taste Lima 2024
+image: /videos/proyecto-4/d1.jpg
+category: GOURMET
+date: octubre 12 2024
 
 #params
-layout: "four"
+layout: "three"
 
 #detalles completos
-introTitle: Cascada <span class="mil-thin">de Lava</span>
+introTitle: <span class="mil-thin">El doble poder que</span> transforma
+
 details:
     - label: "Cliente:"
-      value: "El Comercio"
+      value: "Premiun Tasting"
 
     - label: "Fecha:"
-      value: "Mayo 2024"
+      value: "Octubre 2024"
 
-    - label: "Autor"
-      value: "Paul Trueman"
+    - label: "Campaña:"
+      value: "Premiun Tasting Lima 2024"
+
+# ✅ SECCIÓN VIDEO AÑADIDA
+
+video:
+    url: "/videos/proyecto-1/dove.mp4"
+    thumbnail: "/videos/proyecto-4/d2.jpg"
+    isLocal: true
+
+description:
+    enabled: 1
+    title: Historias reales que inspiran
+    content: "
+      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como \"súper suavecito\" o \"de toda la vida\" se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
+    "
 
 gallery: 
     enabled: 1
     items:
-        - image: /img/works/4/1.jpg
+        - image: /img/works/3/1.jpeg
           alt: "imagen"
 
-        - image: /img/works/4/2.jpg
+        - image: /img/works/3/2.jpeg
           alt: "imagen"
 
-        - image: /img/works/4/3.jpg
+        - image: /img/works/3/3.jpg
           alt: "imagen"
 
-        - image: /img/works/4/4.jpg
-          alt: "imagen"
-
-        - image: /img/works/4/5.jpg
-          alt: "imagen"
-        
-        - image: /img/works/4/6.jpg
-          alt: "imagen"
-
-description:
-    enabled: 1
-    title: Fotos de Lava tomadas en el <br>Parque Nacional de los Volcanes de Hawái.
-    content: "
-      <p>Esta colección de fotografías de Hawái se centra en el inmenso poder de la lava en el Parque Nacional de los Volcanes, en la Isla Grande de Hawái. Una de las escenas más místicas que he tenido el placer de capturar. Para esta colección, quería mostrar esta belleza de una manera artística propia, a través de la fotografía de paisajes en arte fino. Sin embargo, aún quería mantener estas escenas naturales y fieles a lo que presencié en mi viaje. Por esa razón, estas imágenes han sido procesadas ligeramente. Todas estas imágenes son exposiciones individuales, a menos que se indique lo contrario en la leyenda debajo de la foto.</p>
-    "
-
-gallery2: 
-    enabled: 1
-    items:
-        - image: /img/works/4/7.jpg
+        - image: /img/works/3/4.jpg
           alt: "imagen"
 ---
