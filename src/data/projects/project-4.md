@@ -1,6 +1,6 @@
 ---
 #vista previa
-title: Premium Taste Lima 2024
+title: Foro Empresarial Women
 image: /videos/proyecto-4/d1.jpg
 category: GOURMET
 date: octubre 12 2024
@@ -24,7 +24,7 @@ details:
 # ✅ SECCIÓN VIDEO AÑADIDA
 
 video:
-    url: "/videos/proyecto-1/dove.mp4"
+    url: "https://www.youtube.com/watch?v=16uzEvAmagA"
     thumbnail: "/videos/proyecto-4/d2.jpg"
     isLocal: true
 

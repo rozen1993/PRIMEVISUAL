@@ -24,7 +24,7 @@ details:
 # ✅ SECCIÓN VIDEO AÑADIDA
 
 video:
-    url: "/videos/proyecto-1/redinter.mp4"
+    url: "https://www.youtube.com/watch?v=uj95pnrXIwI"
     thumbnail: "/videos/proyecto-1/a2.jpg"
     isLocal: true
 

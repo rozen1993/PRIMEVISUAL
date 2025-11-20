@@ -1,6 +1,6 @@
 ---
 #vista previa
-title: Premium Taste Lima 2024
+title: Service Hero Adidas
 image: /videos/proyecto-6/f1.jpg
 category: GOURMET
 date: octubre 12 2024
@@ -24,7 +24,7 @@ details:
 # ✅ SECCIÓN VIDEO AÑADIDA
 
 video:
-    url: "/videos/proyecto-1/dove.mp4"
+    url: "https://www.youtube.com/watch?v=7_6xZDeL5N0"
     thumbnail: "/videos/proyecto-6/f2.jpg"
     isLocal: true
 

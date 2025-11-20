@@ -24,7 +24,7 @@ details:
 # ✅ SECCIÓN VIDEO AÑADIDA
 
 video:
-    url: "/videos/proyecto-1/dove.mp4"
+    url: "https://www.youtube.com/watch?v=HZEy7skFOnM"
     thumbnail: "/videos/proyecto-3/c2.jpg"
     isLocal: true
 

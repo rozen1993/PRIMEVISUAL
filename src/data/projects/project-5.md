@@ -1,6 +1,6 @@
 ---
 #vista previa
-title: Premium Taste Lima 2024
+title: Teaser Party Lima 
 image: /videos/proyecto-5/e1.jpg
 category: GOURMET
 date: octubre 12 2024
@@ -24,7 +24,7 @@ details:
 # ✅ SECCIÓN VIDEO AÑADIDA
 
 video:
-    url: "/videos/proyecto-1/dove.mp4"
+    url: "https://www.youtube.com/watch?v=Rk-sT2owQfs"
     thumbnail: "/videos/proyecto-5/e2.jpg"
     isLocal: true
 

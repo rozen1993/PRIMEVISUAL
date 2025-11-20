@@ -19,6 +19,22 @@ const newStyles = {
   backgroundColor: "black",
 };
 
+/* 🔥 Función para extraer ID de YouTube */
+function getYouTubeId(url) {
+  if (!url) return null;
+
+  // Si ya es un ID sin URL
+  if (/^[a-zA-Z0-9_-]{11}$/.test(url)) return url;
+
+  try {
+    const u = new URL(url);
+    if (u.hostname.includes("youtube.com")) return u.searchParams.get("v");
+    if (u.hostname.includes("youtu.be")) return u.pathname.substring(1);
+  } catch {
+    return null;
+  }
+}
+
 export default function VideoModal({
   videoUrl,
   thumbnail,
@@ -27,10 +43,12 @@ export default function VideoModal({
 }) {
   const [isOpen, setIsOpen] = useState(false);
 
-  const isEmbedUrl =
-    videoUrl?.includes("youtube") ||
-    videoUrl?.includes("vimeo") ||
-    videoUrl?.includes("embed");
+  const ytId = getYouTubeId(videoUrl);
+  const isYouTube = Boolean(ytId);
+
+  const embedUrl = isYouTube
+    ? `https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0`
+    : videoUrl;
 
   return (
     <div className={styles.container}>
@@ -46,12 +64,10 @@ export default function VideoModal({
           sizes="(max-width: 768px) 100vw, 50vw"
           className="mil-scale-img"
           style={{ objectFit: "cover"}}
-          priority={false}
         />
 
-        {/* Botón play */}
-        <div style={newStyles} className={`${styles.playButton}`}>
-          <IoMdPlay size={25} color="white" className="play-icon" />
+        <div style={newStyles} className={styles.playButton}>
+          <IoMdPlay size={25} color="white" />
         </div>
       </div>
 
@@ -62,17 +78,14 @@ export default function VideoModal({
             className={styles.modalContent}
             onClick={(e) => e.stopPropagation()}
           >
-            <button
-              onClick={() => setIsOpen(false)}
-              className={styles.closeButton}
-            >
+            <button onClick={() => setIsOpen(false)} className={styles.closeButton}>
               ✕
             </button>
 
             <div className={styles.videoContainer}>
-              {isEmbedUrl ? (
+              {isYouTube ? (
                 <iframe
-                  src={videoUrl}
+                  src={embedUrl}
                   className={styles.videoIframe}
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
@@ -82,7 +95,6 @@ export default function VideoModal({
                 <video controls autoPlay className={styles.videoElement}>
                   <source src={videoUrl} type="video/mp4" />
                   <source src={videoUrl} type="video/webm" />
-                  Tu navegador no soporta el elemento de video.
                 </video>
               )}
             </div>

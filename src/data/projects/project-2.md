@@ -24,7 +24,7 @@ details:
 # ✅ SECCIÓN VIDEO AÑADIDA
 
 video:
-    url: "/videos/proyecto-2/pr.mp4"
+    url: "https://www.youtube.com/watch?v=jGBn4_dsxNA"
     thumbnail: "/videos/proyecto-2/b2.jpg"
     isLocal: true
 

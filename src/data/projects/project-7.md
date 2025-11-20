@@ -1,6 +1,6 @@
 ---
 #vista previa
-title: Premium Taste Lima 2024
+title: Fiesta Puro Impulso
 image: /videos/proyecto-7/g1.jpg
 category: GOURMET
 date: octubre 12 2024
@@ -24,7 +24,7 @@ details:
 # ✅ SECCIÓN VIDEO AÑADIDA
 
 video:
-    url: "/videos/proyecto-1/dove.mp4"
+    url: "https://www.youtube.com/watch?v=IobF6U3FW9Q"
     thumbnail: "/videos/proyecto-7/g2.jpg"
     isLocal: true
 
