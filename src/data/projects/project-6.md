@@ -1,25 +1,25 @@
 ---
 #vista previa
-title: Service Hero Adidas
+title: Héroe Adidas
 image: /videos/proyecto-6/f1.jpg
-category: GOURMET
-date: octubre 12 2024
+category: CORPORATIVO
+date: junio 2022
 
 #params
 layout: "three"
 
 #detalles completos
-introTitle: <span class="mil-thin">El doble poder que</span> transforma
+introTitle: <span class="mil-thin">Héroe</span> Adidas
 
 details:
     - label: "Cliente:"
-      value: "Premiun Tasting"
+      value: "Adidas"
 
     - label: "Fecha:"
-      value: "Octubre 2024"
+      value: "junio 2022"
 
     - label: "Campaña:"
-      value: "Premiun Tasting Lima 2024"
+      value: "Service Hero Adidas"
 
 # ✅ SECCIÓN VIDEO AÑADIDA
 
@@ -30,10 +30,12 @@ video:
 
 description:
     enabled: 1
-    title: Historias reales que inspiran
+    title: Héroes del servicio
     content: "
-      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como \"súper suavecito\" o \"de toda la vida\" se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
+      <p>Este proyecto destaca la esencia de “Service Hero”, el programa interno de Adidas creado para reconocer a los colaboradores que representan con excelencia la atención al cliente y los valores de la marca. El video muestra cómo esta iniciativa celebra a quienes, con dedicación y autenticidad, fortalecen la experiencia de compra y el vínculo con los consumidores. A través de testimonios y momentos cotidianos, se revela el impacto humano detrás de cada interacción que da vida al espíritu de Adidas.</p>
+      <p>Cada escena pone en valor el esfuerzo y compromiso de los empleados seleccionados, resaltando cómo su desempeño ejemplar inspira a sus equipos y contribuye a una cultura organizacional sólida. El proyecto transmite la importancia de reconocer el trabajo bien hecho y promover entornos donde la motivación y el servicio se convierten en motores de crecimiento. Una mirada cercana al talento que impulsa a Adidas desde adentro, celebrando a quienes hacen la diferencia día a día.</p>
     "
+
 
 gallery: 
     enabled: 1

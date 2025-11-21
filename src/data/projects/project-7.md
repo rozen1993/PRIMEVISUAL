@@ -1,25 +1,25 @@
 ---
 #vista previa
-title: Fiesta Puro Impulso
+title: Puro Impulso
 image: /videos/proyecto-7/g1.jpg
-category: GOURMET
-date: octubre 12 2024
+category: SOCIAL
+date: febrero 2018
 
 #params
 layout: "three"
 
 #detalles completos
-introTitle: <span class="mil-thin">El doble poder que</span> transforma
+introTitle: <span class="mil-thin">Puro</span> Impulso
 
 details:
     - label: "Cliente:"
-      value: "Premiun Tasting"
+      value: "Adidas"
 
     - label: "Fecha:"
-      value: "Octubre 2024"
+      value: "Febrero 2018"
 
     - label: "Campaña:"
-      value: "Premiun Tasting Lima 2024"
+      value: "Pureboost Adidas"
 
 # ✅ SECCIÓN VIDEO AÑADIDA
 
@@ -30,10 +30,12 @@ video:
 
 description:
     enabled: 1
-    title: Historias reales que inspiran
+    title: Energía que impulsa
     content: "
-      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como \"súper suavecito\" o \"de toda la vida\" se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
+      <p>Este proyecto retrata la experiencia del lanzamiento de las Adidas Pureboost Go, un encuentro que reunió a cerca de ochenta runners en el corazón de Lima. El video muestra cómo, desde el rooftop de la Plaza San Martín, los participantes emprendieron una ruta de cinco kilómetros por las calles históricas de la ciudad. Entre ritmo, esfuerzo y entusiasmo, la activación reveló el espíritu urbano que inspira a este calzado diseñado para brindar comodidad y respuesta en cada zancada.</p>
+      <p>Cada escena destaca el compromiso de Adidas con la comunidad runner peruana, mostrando cómo la tecnología de amortiguación BOOST potencia la experiencia en superficies urbanas. El recorrido culminó en el Club de la Unión, donde los asistentes compartieron la energía del encuentro y conocieron de cerca las características del modelo. El proyecto celebra el movimiento, la conexión entre corredores y la pasión por explorar la ciudad paso a paso con tecnología pensada para ellos.</p>
     "
+
 
 gallery: 
     enabled: 1
