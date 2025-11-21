@@ -5,9 +5,9 @@ slug: "sesion-de-fotos"
 date: '2025-01-02'
 image: "/img/blog/3.jpg"
 category:
-    - Código
+    - Audiovisual
 categories:
-    - code
+    - Audiovisual
 short: Sesiones diseñadas para capturar momentos únicos con calidad profesional.
 
 #full details

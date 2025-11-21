@@ -73,25 +73,6 @@
         ]
     },
     "social": [
-        {
-            "link": "https://api.whatsapp.com/send?phone=51965683542&text=Hola!%20para%20solicitar%20información&source=&data=",
-            "icon": "fab fa-behance",
-            "title": "Behance"
-        },
-        {
-            "link": "https://api.whatsapp.com/send?phone=51965683542&text=Hola!%20para%20solicitar%20información&source=&data=",
-            "icon": "fab fa-dribbble",
-            "title": "Dribbble"
-        },
-        {
-            "link": "https://api.whatsapp.com/send?phone=51965683542&text=Hola!%20para%20solicitar%20información&source=&data=",
-            "icon": "fab fa-twitter",
-            "title": "Twitter"
-        },
-        {
-            "link": "https://api.whatsapp.com/send?phone=51965683542&text=Hola!%20para%20solicitar%20información&source=&data=",
-            "icon": "fab fa-github",
-            "title": "Github"
-        }
+       
     ]
 }

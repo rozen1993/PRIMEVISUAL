@@ -1,20 +1,5 @@
 {
     "items": [
-        {
-            "image": "/img/partners/0.svg",
-            "alt": "El Comercio"
-        },
-        {
-            "image": "/img/partners/5.svg",
-            "alt": "Dove"
-        },
-        {
-            "image": "/img/partners/3.svg",
-            "alt": "Claro"
-        },
-        {
-            "image": "/img/partners/4.svg",
-            "alt": "Gatorade"
-        }
+       
     ]
 }
