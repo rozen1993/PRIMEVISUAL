@@ -1,15 +1,15 @@
 ---
 #vista previa
-title: Teaser Party Lima 
+title: Summer Carnival
 image: /videos/proyecto-5/e1.jpg
-category: GOURMET
-date: octubre 12 2024
+category: SOCIAL
+date: enero 2019
 
 #params
 layout: "three"
 
 #detalles completos
-introTitle: <span class="mil-thin">El doble poder que</span> transforma
+introTitle: <span class="mil-thin">Summer </span>Carnival
 
 details:
     - label: "Cliente:"
@@ -30,10 +30,12 @@ video:
 
 description:
     enabled: 1
-    title: Historias reales que inspiran
+    title: Fiesta total en verano
     content: "
-      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como \"súper suavecito\" o \"de toda la vida\" se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
+      <p>Este proyecto retrata la intensidad y el color del “Summer Carnival”, un festival que iluminó la Costa Verde con una celebración que reunió a miles de asistentes desde el atardecer hasta el amanecer. El video muestra cómo Arena 1 se transformó en un escenario vibrante donde disfraces, luces y música se fusionaron para crear una experiencia única. La energía colectiva, los ritmos electrónicos y el ambiente festivo marcaron una noche que dejó huella en la escena musical limeña.</p>
+      <p>Cada toma destaca el despliegue técnico y artístico que dio vida al evento: visuales envolventes, juegos de luces y sets de DJs nacionales e internacionales que mantuvieron a todos bailando por más de doce horas. El proyecto busca transmitir esa mezcla de libertad y euforia que definió el festival, consolidando al “Summer Carnival” como una cita imprescindible del verano para los amantes de la música electrónica. Una celebración que hizo vibrar la ciudad de principio a fin.</p>
     "
+
 
 gallery: 
     enabled: 1

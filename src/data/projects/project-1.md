@@ -9,17 +9,17 @@ date: septiembre 2023
 layout: "three"
 
 #detalles completos
-introTitle: <span class="mil-thin">El doble poder que</span> transforma
+introTitle: <span class="mil-thin">Redinter</span> 25 años
 
 details:
     - label: "Cliente:"
-      value: "Premiun Tasting"
+      value: "Redinter"
 
     - label: "Fecha:"
-      value: "Octubre 2024"
+      value: "Septiembre 2023"
 
     - label: "Campaña:"
-      value: "Premiun Tasting Lima 2024"
+      value: "Redinter 25 años"
 
 # ✅ SECCIÓN VIDEO AÑADIDA
 
@@ -30,9 +30,10 @@ video:
 
 description:
     enabled: 1
-    title: Historias reales que inspiran
+    title: 25 años iluminando al país
     content: "
-      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como \"súper suavecito\" o \"de toda la vida\" se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
+      <p>Este proyecto conmemorativo celebra los 25 años de Redinter en Perú, recordando sus inicios en 1999 en Arequipa y la visión de formar un equipo preparado para operar y mantener redes de alta tensión. El video destaca cómo ese compromiso inicial permitió construir una infraestructura sólida y confiable que hoy continúa garantizando la seguridad y continuidad del suministro eléctrico en distintas regiones del país.</p>
+      <p>Cada testimonio refleja la evolución de la empresa y el valor humano detrás de cada logro. Actualmente, Redinter gestiona 1,692 km de circuito y opera desde Arequipa, Lima y Moyobamba, integrando a equipos que trabajan unidos por un mismo propósito. El proyecto invita a celebrar este recorrido y renovar juntos la convicción de avanzar hacia un futuro sostenible para todos.</p>
     "
 
 gallery: 

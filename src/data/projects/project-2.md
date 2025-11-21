@@ -3,13 +3,13 @@
 title: Premium Taste Lima 2024
 image: /videos/proyecto-2/b1.jpg
 category: GOURMET
-date: octubre 12 2024
+date: octubre 2024
 
 #params
 layout: "three"
 
 #detalles completos
-introTitle: <span class="mil-thin">El doble poder que</span> transforma
+introTitle: <span class="mil-thin">Premium Tasting</span> 2024
 
 details:
     - label: "Cliente:"
@@ -30,10 +30,12 @@ video:
 
 description:
     enabled: 1
-    title: Historias reales que inspiran
+    title: Vinos que dejan huella
     content: "
-      <p>Este proyecto refleja cómo la autenticidad y la confianza se transforman en un mensaje poderoso cuando se cuentan desde quienes lo viven. En el video, mujeres reales comparten con entusiasmo lo que significa para ellas cuidar su cabello con Dove y la seguridad de elegir un producto en el que confían desde siempre.</p> <p>Cada testimonio transmite emoción genuina. Las protagonistas no solo muestran resultados visibles, también expresan lo que la marca representa en su vida: una aliada constante y parte de su identidad. Frases como \"súper suavecito\" o \"de toda la vida\" se convierten en símbolos de cercanía y credibilidad, mostrando una conexión que va más allá de lo comercial.</p>
+      <p>Este proyecto retrata la esencia de una experiencia donde el vino se convierte en memoria viva. Muestra cómo, al degustar una copa guiados solo por los sentidos, el encuentro cambia cuando aparece su propio creador para revelar la historia detrás de esa etiqueta. El video destaca que el vino no es únicamente bebida, sino un relato que une tierra, tradición y emoción, dejando una huella profunda en quienes lo descubren sin expectativas previas.</p>
+      <p>La nueva edición de Premium Tasting llega a Lima con una propuesta que reúne veintiocho viñas de siete países, acompañadas por un maridaje gastronómico de quince pasos y la presencia de reconocidos winemakers. El proyecto refleja este intercambio único donde técnica, pasión y cultura se encuentran, creando una vivencia que transforma la manera de comprender el vino. Una celebración que invita a compartir, aprender y brindar por historias que nacen en cada copa servida.</p>
     "
+
 
 gallery: 
     enabled: 1
