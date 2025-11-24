@@ -1,17 +1,17 @@
 ---
 #preview
-title: 'Sesión de fotos en Lima'
+title: 'Sesión de fotos'
 slug: "sesion-de-fotos"
 date: '2025-01-02'
 image: "/img/blog/3.jpg"
 category:
     - Audiovisual
 categories:
-    - Audiovisual
+    - audiovisual
 short: Sesiones diseñadas para capturar momentos únicos con calidad profesional.
 
 #full details
-introTitle: Sesiones Únicas y de <br> <span class="mil-thin">Alta Calidad</span> 
+introTitle: Sesión de fotos
 
 author:
     name: "Emiliano Vargas"
@@ -24,7 +24,6 @@ gallery:
 
         - image: /img/blog/7.jpg
           alt: "imagen"
-          
 
 additional:
     enabled: 0
@@ -35,15 +34,12 @@ additional:
     "
 ---
 
-# Sesión de fotos profesional
 
 En un mundo donde la imagen lo es todo, una sesión de fotos profesional puede marcar la diferencia, ya sea para destacar tu marca, capturar momentos familiares inolvidables o renovar tu imagen personal. En Safari, no solo somos una de las principales productoras audiovisuales de Lima, también ofrecemos soluciones fotográficas personalizadas que se adaptan a tus necesidades (**[explora nuestros servicios de producción audiovisual!](https://)**).
 
+#### ¿Por qué elegirnos para tu sesión de fotos?
 
-
-## ¿Por qué elegirnos para tu sesión de fotos?
-
-**Experiencia comprobada:**  Somos una agencia con amplia trayectoria en la producción audiovisual y publicitaria, trabajando con empresas y particulares para crear contenido visual de alta calidad.
+**Experiencia comprobada:** Somos una agencia con amplia trayectoria en la producción audiovisual y publicitaria, trabajando con empresas y particulares para crear contenido visual de alta calidad.
 
 **Equipo profesional y tecnología de punta:** Contamos con un equipo de expertos en fotografía y equipo de última generación para garantizar resultados impecables en cada toma.
 
@@ -51,7 +47,7 @@ En un mundo donde la imagen lo es todo, una sesión de fotos profesional puede m
 
 **Soluciones integrales:** Al ser una productora audiovisual, también ofrecemos edición avanzada, retoque digital y producción de videos para complementar tus necesidades visuales.
 
-## Servicios destacados de fotografía profesional
+#### Servicios destacados de fotografía profesional
 
 **Retratos artísticos y personales:** Crea imágenes únicas que reflejen tu personalidad o transmitan un mensaje específico. Ideales para proyectos creativos y branding personal.
 
@@ -61,7 +57,7 @@ En un mundo donde la imagen lo es todo, una sesión de fotos profesional puede m
 
 **Sesiones temáticas:** Ofrecemos sesiones con decoraciones y temáticas personalizadas, perfectas para fechas especiales como Navidad, San Valentín o Halloween.
 
-## Beneficios de una sesión fotográfica
+#### Beneficios de una sesión fotográfica
 
 **Construcción de una imagen confiable:** Una sesión profesional refleja calidad y atención al detalle, lo que genera confianza en tus clientes.
 
@@ -69,7 +65,7 @@ En un mundo donde la imagen lo es todo, una sesión de fotos profesional puede m
 
 **Recuerdos que perduran:** En el caso de sesiones familiares o personales, las fotos se convierten en memorias invaluables.
 
-## ¿Cómo reservar tu sesión de fotos?
+#### ¿Cómo reservar tu sesión de fotos?
 
 **Contáctanos:** Llámanos o escríbenos por WhatsApp para consultar disponibilidad y recibir asesoramiento personalizado.
 
