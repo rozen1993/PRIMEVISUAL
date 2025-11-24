@@ -4,7 +4,7 @@ title: 'Sesión de Fotos Corporativas en Lima'
 date: '2025-02-10'
 image: "/img/blog/9.jpg"
 category:
-    - Audiovisual
+    - audiovisual
 categories:
     - audiovisual
 short: Sesión de fotos corporativas en Lima para empresas, equipos, ejecutivos y marcas que buscan una imagen profesional, moderna y confiable.

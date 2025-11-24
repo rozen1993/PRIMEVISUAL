@@ -4,7 +4,7 @@ title: 'Servicio de Drones en Perú'
 date: '2025-02-10'
 image: "/img/blog/10.jpg"
 category:
-    - Audiovisual
+    - audiovisual
 categories:
     - audiovisual
 short: Servicio de drones en Perú para videos aéreos, fotografía aérea, inspecciones, contenido corporativo y producción audiovisual profesional.

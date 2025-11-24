@@ -4,7 +4,7 @@ title: 'Video para Eventos Sociales'
 date: '2025-03-10'
 image: "/img/blog/4.jpg"
 category:
-    - Audiovisual
+    - audiovisual
 categories:
     - audiovisual
 short: Producción de video para eventos sociales en Lima. Cobertura profesional de bodas, cumpleaños, aniversarios y más, con calidad cinematográfica y creatividad de Midnight Studios.

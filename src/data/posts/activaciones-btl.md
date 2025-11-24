@@ -4,9 +4,9 @@ title: 'Activaciones BTL'
 date: '2025-11-15'
 image: "/img/blog/15.jpeg"
 category:
-    - Marketing
+    - marketing
 categories:
-    - Marketing
+    - marketing
 short: Descubre qué son las activaciones BTL, tipos, ejemplos creativos y cómo implementarlas para conectar emocionalmente con tu audiencia y aumentar ventas.
 
 #full details

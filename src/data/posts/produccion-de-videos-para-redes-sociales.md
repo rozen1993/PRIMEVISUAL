@@ -4,7 +4,7 @@ title: 'Producción de Videos para Redes Sociales'
 date: '2025-01-12'
 image: "/img/blog/12.jpg"
 category:
-    - Audiovisual
+    - audiovisual
 categories:
     - audiovisual
 short: Producción de videos profesionales para redes sociales que conectan, destacan y generan resultados reales.

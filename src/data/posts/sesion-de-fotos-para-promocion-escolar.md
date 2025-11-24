@@ -4,9 +4,9 @@ title: 'Sesión de Fotos para Promoción Escolar'
 date: '2025-02-10'
 image: "/img/blog/1.jpg"
 category:
-    - Marketing
+    - audiovisual
 categories:
-    - Marketing
+    - audiovisual
 short: Sesiones de fotos para promoción escolar en Lima. Retratos individuales, sesiones grupales, fotos creativas y contenido profesional para colegios. Calidad premium con Midnight Studios.
 
 #full details

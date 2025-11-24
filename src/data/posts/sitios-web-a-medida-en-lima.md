@@ -4,7 +4,7 @@ title: 'Sitios Web a Medida en Lima'
 date: '2025-02-10'
 image: "/img/blog/7.jpg"
 category:
-    - Web
+    - web
 categories:
     - web
 short: Sitios web a medida en Lima para negocios, marcas personales y empresas que necesitan presencia profesional, rápida y optimizada para SEO.

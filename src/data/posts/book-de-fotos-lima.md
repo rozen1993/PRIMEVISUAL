@@ -4,7 +4,7 @@ title: 'Book de Fotos en Lima'
 date: '2025-01-10'
 image: "/img/blog/14.jpg"
 category:
-    - Audiovisual
+    - audiovisual
 categories:
     - audiovisual
 short: Book de fotos profesional en Lima para modelos, artistas, emprendedores y creadores que buscan imágenes impactantes y de alta calidad.

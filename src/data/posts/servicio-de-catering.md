@@ -4,10 +4,9 @@ title: 'Servicio de Catering'
 date: '2025-11-15'
 image: "/img/blog/11.jpg"
 category:
-    - Eventos
+    - eventos
 categories:
     - eventos
-    - catering
 short: Descubre cómo elegir el mejor servicio de catering para fiestas infantiles. Menús, precios y consejos prácticos para hacer que el cumpleaños sea inolvidable.
 
 #full details

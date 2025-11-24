@@ -4,7 +4,7 @@ title: 'Sesión de Fotos para Bebés y Padres'
 date: '2025-01-13'
 image: "/img/blog/2.jpg"
 category:
-    - Audiovisual
+    - audiovisual
 categories:
     - audiovisual
 short: Sesiones de fotos profesionales para bebés y padres en Lima, capturando momentos tiernos, naturales y llenos de emoción.
