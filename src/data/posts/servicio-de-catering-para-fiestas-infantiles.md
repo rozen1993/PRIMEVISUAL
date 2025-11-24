@@ -10,7 +10,7 @@ categories:
 short: Descubre cómo elegir el mejor servicio de catering para fiestas infantiles. Menús, precios y consejos prácticos para hacer que el cumpleaños sea inolvidable.
 
 #full details
-introTitle: Servicio de Catering 
+introTitle: Servicio de Catering para Fiestas Infantiles 
 
 author:
     name: "Emiliano Vargas"
