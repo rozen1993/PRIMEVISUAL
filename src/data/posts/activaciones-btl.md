@@ -13,7 +13,7 @@ short: Descubre qué son las activaciones BTL, tipos, ejemplos creativos y cómo
 introTitle: Activaciones BTL
 
 author:
-    name: "Tu Nombre"
+    name: "Emiliano Vargas"
 
 gallery:
     enabled: 1

@@ -14,7 +14,7 @@ short: Descubre cómo elegir el mejor servicio de catering para fiestas infantil
 introTitle: Servicio de Catering 
 
 author:
-    name: "Tu Nombre"
+    name: "Emiliano Vargas"
 
 gallery:
     enabled: 1

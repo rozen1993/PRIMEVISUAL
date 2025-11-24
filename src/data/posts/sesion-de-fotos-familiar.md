@@ -14,7 +14,7 @@ short: Descubre cómo planear la sesión de fotos familiar perfecta. Consejos de
 introTitle: Sesión de Fotos Familiar
 
 author:
-    name: "Tu Nombre"
+    name: "Emiliano Vargas"
 
 gallery:
     enabled: 1
