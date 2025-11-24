@@ -2,7 +2,7 @@
 #preview
 title: 'Sesión de Fotos Corporativas en Lima'
 date: '2025-02-10'
-image: "/img/blog/sesion-fotos-corporativas.jpg"
+image: "/img/blog/9.jpg"
 category:
     - Audiovisual
 categories:

@@ -2,7 +2,7 @@
 #preview
 title: 'Servicio de Drones en Perú'
 date: '2025-02-10'
-image: "/img/blog/servicio-drones-peru.jpg"
+image: "/img/blog/10.jpg"
 category:
     - Audiovisual
 categories:

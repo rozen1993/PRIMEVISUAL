@@ -2,7 +2,7 @@
 #preview
 title: 'Book de Fotos en Lima'
 date: '2025-01-10'
-image: "/img/blog/book-fotos-lima.jpg"
+image: "/img/blog/14.jpg"
 category:
     - Audiovisual
 categories:

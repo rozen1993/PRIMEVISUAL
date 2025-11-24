@@ -2,7 +2,7 @@
 #preview
 title: 'Sesión de Fotos para Bebés y Padres'
 date: '2025-01-13'
-image: "/img/blog/sesion-fotos-bebes-padres.jpg"
+image: "/img/blog/2.jpg"
 category:
     - Audiovisual
 categories:

@@ -2,12 +2,12 @@
 #preview
 title: 'Sesión de Fotos Familiar'
 date: '2025-11-15'
-image: "/img/blog/catering-infantil.jpg"
+image: "/img/blog/8.jpg"
 category:
     - Eventos
 categories:
     - eventos
-    - catering
+    - Retrato
 short: Descubre cómo planear la sesión de fotos familiar perfecta. Consejos de vestuario, locaciones ideales, precios y todo lo necesario para capturar recuerdos inolvidables.
 
 #full details

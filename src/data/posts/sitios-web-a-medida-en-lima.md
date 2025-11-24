@@ -2,7 +2,7 @@
 #preview
 title: 'Sitios Web a Medida en Lima'
 date: '2025-02-10'
-image: "/img/blog/sitios-web-a-medida.jpg"
+image: "/img/blog/7.jpg"
 category:
     - Web
 categories:

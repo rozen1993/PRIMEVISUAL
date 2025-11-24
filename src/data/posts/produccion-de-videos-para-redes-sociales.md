@@ -2,7 +2,7 @@
 #preview
 title: 'Producción de Videos para Redes Sociales'
 date: '2025-01-12'
-image: "/img/blog/produccion-videos-redes-sociales.jpg"
+image: "/img/blog/12.jpg"
 category:
     - Audiovisual
 categories:

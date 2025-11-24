@@ -2,7 +2,7 @@
 #preview
 title: 'Video para Eventos Sociales'
 date: '2025-03-10'
-image: "/img/blog/video-eventos-sociales.jpg"
+image: "/img/blog/4.jpg"
 category:
     - Audiovisual
 categories:

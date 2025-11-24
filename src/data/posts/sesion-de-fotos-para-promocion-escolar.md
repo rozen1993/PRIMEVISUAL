@@ -2,7 +2,7 @@
 #preview
 title: 'Sesión de Fotos para Promoción Escolar'
 date: '2025-02-10'
-image: "/img/blog/5.jpg"
+image: "/img/blog/1.jpg"
 category:
     - Marketing
 categories:

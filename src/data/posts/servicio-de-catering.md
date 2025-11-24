@@ -2,7 +2,7 @@
 #preview
 title: 'Servicio de Catering'
 date: '2025-11-15'
-image: "/img/blog/catering-infantil.jpg"
+image: "/img/blog/11.jpg"
 category:
     - Eventos
 categories:

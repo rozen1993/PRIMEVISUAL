@@ -2,7 +2,7 @@
 #preview
 title: 'Activaciones BTL'
 date: '2025-11-15'
-image: "/img/blog/5.jpg"
+image: "/img/blog/15.jpeg"
 category:
     - Marketing
 categories:
