@@ -23,15 +23,8 @@ gallery:
           alt: "sesion de fotos familiar"
 
         - image: /img/blog/9.jpg
-          alt: "sesSesión de Fotos Corporativas en Lima"
+          alt: "Sesión de Fotos Corporativas en Lima"
 
-additional:
-    enabled: 0
-    content: "
-        <h5>¡Contáctanos hoy!</h5>
-        <p>En Safari, estamos listos para ayudarte a capturar esos momentos especiales con fotografías que superen tus expectativas. ¡Reserva ahora tu sesión de fotos y descubre por qué somos tu mejor opción en Lima!</p>
-        <a href='/contacto' class='btn-primary'>Reserva tu sesión ahora</a>
-    "
 ---
 
 
