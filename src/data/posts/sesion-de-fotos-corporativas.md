@@ -16,7 +16,7 @@ author:
     name: "Emiliano Vargas"
 
 gallery:
-    enabled: 1
+    enabled: 0
     items:
         - image: /img/blog/10.jpg
           alt: "Servicio de Drones en Perú"

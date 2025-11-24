@@ -17,7 +17,7 @@ author:
     name: "Emiliano Vargas"
 
 gallery:
-    enabled: 1
+    enabled: 0
     items:
         - image: /img/blog/8.jpg
           alt: "sesion de fotos familiar"

@@ -16,7 +16,7 @@ author:
     name: "Emiliano Vargas"
 
 gallery:
-    enabled: 1
+    enabled: 0
     items:
         - image: /img/blog/14.jpg
           alt: "Book de Fotos"

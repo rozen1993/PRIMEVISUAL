@@ -16,7 +16,7 @@ author:
     name: "Emiliano Vargas"
 
 gallery:
-    enabled: 1
+    enabled: 0
     items:
         - image: /img/blog/12.jpg
           alt: "Producción de Videos para Redes Sociales"
