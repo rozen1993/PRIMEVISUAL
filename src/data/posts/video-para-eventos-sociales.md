@@ -18,11 +18,11 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/blog/video-eventos-sociales-1.jpg
-          alt: "Grabación profesional de bodas y eventos"
+        - image: /img/blog/12.jpg
+          alt: "Producción de Videos para Redes Sociales"
 
-        - image: /img/blog/video-eventos-sociales-2.jpg
-          alt: "Producción de video para fiestas y celebraciones"
+        - image: /img/blog/13.jpg
+          alt: "Book de Fotos"
 ---
 
 Un **video para eventos sociales** es mucho más que una grabación; es la forma de capturar emociones, recuerdos y momentos únicos que perduran para siempre. Desde bodas, cumpleaños, aniversarios, hasta fiestas corporativas, cada evento merece ser registrado con creatividad, profesionalismo y atención a los detalles que hacen que la historia cobre vida.

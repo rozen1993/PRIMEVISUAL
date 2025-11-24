@@ -18,11 +18,11 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/blog/book-fotos-lima-1.jpg
-          alt: "Book de fotos profesional en Lima"
+        - image: /img/blog/11.jpg
+          alt: "Servicio de Catering"
 
-        - image: /img/blog/book-fotos-lima-2.jpg
-          alt: "Sesión fotográfica estilo book en estudio"
+        - image: /img/blog/2.jpg
+          alt: "Sesión de Fotos para Bebés y Padres"
 ---
 
 Un **book de fotos profesional en Lima** es mucho más que una simple sesión fotográfica. Es una herramienta estratégica que define cómo te presentas al mundo: tu estilo, tu actitud, tu marca personal y tu proyección profesional. Ya seas modelo, actor, creador de contenido, emprendedor o alguien que simplemente quiere retratar su esencia con imágenes de nivel editorial, un book bien ejecutado puede abrirte puertas y marcar una diferencia real en cómo eres percibido.

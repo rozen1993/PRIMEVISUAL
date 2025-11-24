@@ -19,11 +19,11 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/blog/catering-infantil-1.jpg
-          alt: "Servicio de catering para fiestas infantiles"
+        - image: /img/blog/11.jpg
+          alt: "Servicio de Catering"
 
-        - image: /img/blog/catering-infantil-2.jpg
-          alt: "Menú infantil para fiestas"
+        - image: /img/blog/9.jpg
+          alt: "Sesión de Fotos Corporativas en Lima"
 ---
 
 Organizar una fiesta infantil puede ser estresante. Entre decoraciones, juegos y animación, la comida suele convertirse en un dolor de cabeza. ¿Qué cantidad preparar? ¿Qué les gustará a los niños? ¿Cómo mantenerlo todo fresco durante horas? Estas son preguntas que todos los padres se hacen.

@@ -18,11 +18,11 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/blog/3.jpg
-          alt: "image"
+        - image: /img/blog/9.jpg
+          alt: "Sesión de Fotos Corporativas en Lima"
 
-        - image: /img/blog/2.jpg
-          alt: "image"
+        - image: /img/blog/8.jpg
+          alt: "Sesión de Fotos Familiar"
 ---
 
 

@@ -18,11 +18,11 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/blog/dron-peru-1.jpg
-          alt: "Filmación aérea con drones en Perú"
+        - image: /img/blog/7.jpg
+          alt: "Sitios Web a Medida en Lima"
 
-        - image: /img/blog/dron-peru-2.jpg
-          alt: "Servicio profesional de drones para videos"
+        - image: /img/blog/1.jpg
+          alt: "Sesión de Fotos para Promoción Escolar"
 ---
 
 El **servicio de drones en Perú** se ha convertido en una herramienta esencial para empresas, proyectos inmobiliarios, producciones audiovisuales, eventos y marcas que buscan contenido visual profesional con perspectiva aérea. Gracias a los avances tecnológicos, hoy es posible capturar tomas imposibles, recorridos dinámicos, inspecciones técnicas y planos cinematográficos con menor costo, mayor seguridad y un impacto visual incomparable.

@@ -18,11 +18,11 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/blog/3.jpg
-          alt: "image"
+        - image: /img/blog/14.jpg
+          alt: "Book de Fotos"
 
-        - image: /img/blog/2.jpg
-          alt: "image"
+        - image: /img/blog/12.jpg
+          alt: "Producción de Videos para Redes Sociales"
 ---
 
 ¿Alguna vez te has topado con una marca en la calle que te hizo sonreír o te sorprendió tanto que tuviste que sacar tu celular para grabar? Eso es exactamente lo que buscan las **activaciones BTL**. No son anuncios tradicionales en televisión ni vallas gigantes. Son experiencias reales que te tocan, te involucran y hacen que realmente sientas una conexión con la marca.

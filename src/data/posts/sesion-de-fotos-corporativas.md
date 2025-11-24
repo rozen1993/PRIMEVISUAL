@@ -18,11 +18,11 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/blog/corporativo-1.jpg
-          alt: "Fotografía corporativa profesional en Lima"
+        - image: /img/blog/10.jpg
+          alt: "Servicio de Drones en Perú"
 
-        - image: /img/blog/corporativo-2.jpg
-          alt: "Retratos corporativos y fotografía empresarial"
+        - image: /img/blog/2.jpg
+          alt: "Sesión de Fotos para Bebés y Padres"
 ---
 
 Una **sesión de fotos corporativas en Lima** es una herramienta fundamental para cualquier empresa o profesional que desee proyectar una imagen seria, moderna y confiable. En un mundo donde la presencia digital influye directamente en la percepción de una marca, la fotografía corporativa se convierte en un pilar imprescindible para transmitir profesionalismo, credibilidad y coherencia visual. Ya sea para actualizar tu web, mejorar tu perfil ejecutivo, renovar la identidad visual de tu empresa o crear contenido institucional, contar con fotos corporativas de calidad marca una diferencia real.

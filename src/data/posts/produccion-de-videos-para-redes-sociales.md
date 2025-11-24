@@ -18,11 +18,11 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/blog/produccion-videos-redes-1.jpg
-          alt: "Video profesional para redes sociales"
+        - image: /img/blog/7.jpg
+          alt: "Sitios Web a Medida en Lima"
 
-        - image: /img/blog/produccion-videos-redes-2.jpg
-          alt: "Grabación de contenido para Instagram y TikTok"
+        - image: /img/blog/4.jpg
+          alt: "Video para Eventos Sociales"
 ---
 
 La **producción de videos para redes sociales** se ha convertido en uno de los elementos más poderosos para captar atención, posicionar una marca y conectar con la audiencia. En plataformas como Instagram, TikTok, Facebook y YouTube, el contenido audiovisual marca la diferencia entre pasar desapercibido o destacar realmente.

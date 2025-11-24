@@ -18,11 +18,11 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/blog/sesion-bebes-padres-1.jpg
-          alt: "Sesión de fotos para bebés en Lima"
+        - image: /img/blog/9.jpg
+          alt: "Sesión de Fotos Corporativas en Lima"
 
-        - image: /img/blog/sesion-bebes-padres-2.jpg
-          alt: "Sesión familiar profesional con padres e hijos"
+        - image: /img/blog/1.jpg
+          alt: "Sesión de Fotos para Promoción Escolar"
 ---
 
 Una **sesión de fotos para bebés y padres** es una oportunidad única para capturar la magia de los primeros años en familia. Los bebés crecen a una velocidad sorprendente, y cada etapa —los primeros gestos, sonrisas, miradas y movimientos— merece ser recordada con imágenes que transmitan ternura y autenticidad. Estas fotografías no solo sirven como recuerdos, sino que se convierten en piezas visuales cargadas de emoción que acompañarán a la familia por generaciones.

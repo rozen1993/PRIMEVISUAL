@@ -18,11 +18,11 @@ author:
 gallery:
     enabled: 1
     items:
-        - image: /img/blog/web-personalizada-1.jpg
-          alt: "Diseño de sitios web a medida en Lima"
+        - image: /img/blog/10.jpg
+          alt: "Servicio de Drones"
 
-        - image: /img/blog/web-personalizada-2.jpg
-          alt: "Desarrollo web profesional y personalizado"
+        - image: /img/blog/12.jpg
+          alt: "Producción de Videos para Redes Sociales"
 ---
 
 Un **sitio web** es la herramienta más poderosa para cualquier negocio o marca que busca destacar en internet con una presencia sólida, profesional y totalmente adaptada a sus objetivos. A diferencia de las plantillas genéricas, un sitio web personalizado se diseña desde cero considerando tu identidad visual, tus servicios, tu estilo de comunicación y las necesidades reales de tus clientes. Esto permite construir una web única, rápida, optimizada para SEO y pensada para convertir visitas en contactos, ventas o reservas.
