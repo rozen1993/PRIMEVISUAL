@@ -10,6 +10,8 @@ import Header from "./headers/Index";
 //import Preloader from "./preloader/Index";
 import Cursor from "./cursor/Index";
 import ScrollbarProgress from "./scrollbar-progress/Index";
+import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/next"
 
 const Layouts = ({
   children,
@@ -48,6 +50,8 @@ const Layouts = ({
 
           {!noFooter && <Footer layout={footer} />}          
         </div>
+        <SpeedInsights />
+        <Analytics />
       </div>
     </div>
   );
