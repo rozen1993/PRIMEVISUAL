@@ -73,10 +73,10 @@ const ProjectInner3 = ({ postData, prev, next }) => {
                   : "mil-link mil-dark mil-arrow-place mil-icon-left mil-disabled"
               }
             >
-              <span>Anterior projecto</span>
+              <span>Anterior proyecto</span>
             </Link>
             <Link href="/projects" className="mil-link mil-dark">
-              <span>Todos los projectos</span>
+              <span>Todos los proyectos</span>
             </Link>
             <Link
               href={
@@ -90,7 +90,7 @@ const ProjectInner3 = ({ postData, prev, next }) => {
                   : "mil-link mil-dark mil-arrow-place mil-disabled"
               }
             >
-              <span>Siguiente projecto</span>
+              <span>Siguiente proyecto</span>
             </Link>
           </div>
         </div>

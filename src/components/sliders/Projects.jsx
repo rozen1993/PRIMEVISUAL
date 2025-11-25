@@ -47,7 +47,7 @@ const ProjectsSlider = ( { projects } ) => {
                                     </div>
                                     <div data-swiper-parallax-y="120" data-swiper-parallax-opacity="0">
                                         <Link href={`/projects/${item.id}`} className="mil-button mil-arrow-place">
-                                            <span>Ver Projecto</span>
+                                            <span>Ver Proyecto</span>
                                             <ArrowIcon />
                                         </Link>
                                     </div>
