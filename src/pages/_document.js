@@ -16,6 +16,7 @@ class MyDocument extends Document {
           <link rel="stylesheet" href="/css/plugins/swiper.min.css" />
           <link rel="stylesheet" href="/css/plugins/magnific-popup.css" />  
           {/* public assets end */}
+          <link rel="icon" href="/favicon.ico" />
         </Head>
         <body>
           <Main />
