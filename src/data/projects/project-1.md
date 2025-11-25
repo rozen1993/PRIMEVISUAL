@@ -25,7 +25,7 @@ details:
 
 video:
     url: "https://www.youtube.com/watch?v=uj95pnrXIwI"
-    thumbnail: "/videos/proyecto-1/a2.jpg"
+    thumbnail: "/videos/proyecto-1/a5.jpg"
     isLocal: true
 
 description:
