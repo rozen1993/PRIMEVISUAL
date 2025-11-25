@@ -41,7 +41,7 @@ const PageBanner = ({ pageTitle, breadTitle, anchorLabel, anchorLink = 0, paddin
               }
               {asPath.indexOf('/projects/') != -1 &&
               <li>
-                <Link href="/projects">Projectos</Link>
+                <Link href="/projects">Proyectos</Link>
               </li>
               }
               {asPath.indexOf('/services/') != -1 &&
