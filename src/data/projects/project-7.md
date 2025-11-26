@@ -1,6 +1,6 @@
 ---
 #vista previa
-title: Puro Impulso
+title: Pureboost Go
 image: /videos/proyecto-7/g1.jpg
 category: SOCIAL
 date: febrero 2018
