@@ -252,6 +252,12 @@ frame
             transform: rotate(-90deg) translateX(130px) translateY(130px);
             pointer-events: all;
         }
+        & .mil-frame-bottom{
+            position: relative;
+            bottom: -1400px;
+            right: 0;
+           
+        }
     }
 }
 
@@ -332,9 +338,22 @@ menu button
     }
 }
 
+
+@media screen and (max-width: 480px) {
+    .mil-frame-bottom{
+        display: block !important;
+    }
+    .mil-back-to-top a {
+        left: -83vh !important;
+        top: calc(100% + 7vw)!important;
+        
+    }
+}
+
 /* -------------------------------------------
 
 menu
+
 
 ------------------------------------------- */
 .mil-menu-frame {

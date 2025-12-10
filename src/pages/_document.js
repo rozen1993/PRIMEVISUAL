@@ -1,4 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
+import Iconw from "@components/whassap/Iconw"
+
 
 class MyDocument extends Document {
   render() {
@@ -35,8 +37,10 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <body>
+          
           <Main />
           <NextScript />
+          <Iconw />
         </body>
       </Html>
     );
